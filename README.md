@@ -1,20 +1,20 @@
-# Team-Rho-Capstone-Project
-
-# Predicting State-Level Utilization of Public Mental Health Services Using Google Trends Data
+# Predicting Health Service Utilization with Google Trends
 
 ## Background
-State mental health systems need a way of predicitng upcoming demand for services so they
-can plan staffing, funding, and capacity ahead of time.
+State and municipal healthcare organizations need to anticipate mental health needs
+at the state level. If reliable online search patterns can be identified early enough,
+policymakers and state-level mental health organizations could respond more effectively to staffing and resource requirements.
 
 ## Research Question
-Can the frequency of Google searches for mental health-related topics predict next
-year's state-level mental health service utilization?
+Which categories of Google search activity provide the most accurate leading indicators
+of state-level mental health service utilization one year later?
 
 ## Hypothesis
-Continued increases in mental health-related search interest will lead to increases
-in mental health service utilization.
+An increase in mental health related search interest within Google search categories
+reflects the public's need for mental health services and therefore will anticipate
+future mental health needs at the state level for the upcoming year.
 
 ## Prediction
-States with sustained increases in mental health-related search interest will show
-higher utilization rates in the following year, while states with flat or declining
-search interest will show lower utilization rates.
+Specific Google search categories, such as "substance use" and "financial stress,"
+will prove more effective in predicting future mental health needs than models limited
+to single search terms.
