@@ -1,0 +1,639 @@
+State,Year,state_population
+Alabama,2013,4831586
+Alabama,2014,4843737
+Alabama,2015,4854803
+Alabama,2016,4866824
+Alabama,2017,4877989
+Alabama,2018,4891628
+Alabama,2019,4907965
+Alabama,2020,4921532
+Alabama,2021,5050058
+Alabama,2022,5076868
+Alabama,2023,5117850
+Alaska,2013,737626
+Alaska,2014,737075
+Alaska,2015,738430
+Alaska,2016,742575
+Alaska,2017,740983
+Alaska,2018,736624
+Alaska,2019,733603
+Alaska,2020,731158
+Alaska,2021,734590
+Alaska,2022,733659
+Alaska,2023,734654
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2013,
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2014,
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2015,
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2016,
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2017,
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2018,
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2019,
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2020,
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2021,
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2022,
+"Annual Estimates of the Resident Population for the United States, Regions, States, the District of Columbia, and Puerto Rico: April 1, 2010 to July 1, 2019; April 1, 2020; and July 1, 2020 (NST-EST2020)",2023,
+Arizona,2013,6634690
+Arizona,2014,6732873
+Arizona,2015,6832810
+Arizona,2016,6944767
+Arizona,2017,7048088
+Arizona,2018,7164228
+Arizona,2019,7291843
+Arizona,2020,7421401
+Arizona,2021,7274022
+Arizona,2022,7370065
+Arizona,2023,7452073
+Arkansas,2013,2960459
+Arkansas,2014,2968759
+Arkansas,2015,2979732
+Arkansas,2016,2991815
+Arkansas,2017,3003855
+Arkansas,2018,3012161
+Arkansas,2019,3020985
+Arkansas,2020,3030522
+Arkansas,2021,3027127
+Arkansas,2022,3047429
+Arkansas,2023,3069856
+California,2013,38253768
+California,2014,38586706
+California,2015,38904296
+California,2016,39149186
+California,2017,39337785
+California,2018,39437463
+California,2019,39437610
+California,2020,39368078
+California,2021,39152927
+California,2022,39125347
+California,2023,39181667
+Colorado,2013,5270774
+Colorado,2014,5352637
+Colorado,2015,5454328
+Colorado,2016,5543844
+Colorado,2017,5617421
+Colorado,2018,5697155
+Colorado,2019,5758486
+Colorado,2020,5807719
+Colorado,2021,5814368
+Colorado,2022,5853355
+Colorado,2023,5912240
+Connecticut,2013,3595792
+Connecticut,2014,3595697
+Connecticut,2015,3588561
+Connecticut,2016,3579830
+Connecticut,2017,3575324
+Connecticut,2018,3574561
+Connecticut,2019,3566022
+Connecticut,2020,3557006
+Connecticut,2021,3607765
+Connecticut,2022,3618707
+Connecticut,2023,3641369
+Delaware,2013,924062
+Delaware,2014,933131
+Delaware,2015,942065
+Delaware,2016,949989
+Delaware,2017,957942
+Delaware,2018,966985
+Delaware,2019,976668
+Delaware,2020,986809
+Delaware,2021,1005130
+Delaware,2022,1020279
+Delaware,2023,1035354
+District of Columbia,2013,651559
+District of Columbia,2014,663603
+District of Columbia,2015,677014
+District of Columbia,2016,687576
+District of Columbia,2017,697079
+District of Columbia,2018,704147
+District of Columbia,2019,708253
+District of Columbia,2020,712816
+District of Columbia,2021,669637
+District of Columbia,2022,674501
+District of Columbia,2023,682559
+Florida,2013,19551678
+Florida,2014,19853880
+Florida,2015,20219111
+Florida,2016,20627237
+Florida,2017,20977089
+Florida,2018,21254926
+Florida,2019,21492056
+Florida,2020,21733312
+Florida,2021,21836698
+Florida,2022,22413989
+Florida,2023,22929248
+Georgia,2013,9975592
+Georgia,2014,10071204
+Georgia,2015,10183353
+Georgia,2016,10308442
+Georgia,2017,10417031
+Georgia,2018,10519389
+Georgia,2019,10628020
+Georgia,2020,10710017
+Georgia,2021,10793038
+Georgia,2022,10929992
+Georgia,2023,11063669
+Hawaii,2013,1408822
+Hawaii,2014,1415335
+Hawaii,2015,1422999
+Hawaii,2016,1428885
+Hawaii,2017,1425763
+Hawaii,2018,1423102
+Hawaii,2019,1415615
+Hawaii,2020,1407006
+Hawaii,2021,1446909
+Hawaii,2022,1437812
+Hawaii,2023,1434950
+Idaho,2013,1612053
+Idaho,2014,1632248
+Idaho,2015,1652495
+Idaho,2016,1684036
+Idaho,2017,1719745
+Idaho,2018,1752074
+Idaho,2019,1789060
+Idaho,2020,1826913
+Idaho,2021,1904855
+Idaho,2022,1942951
+Idaho,2023,1970497
+Illinois,2013,12895778
+Illinois,2014,12885092
+Illinois,2015,12859585
+Illinois,2016,12821709
+Illinois,2017,12779893
+Illinois,2018,12724685
+Illinois,2019,12667017
+Illinois,2020,12587530
+Illinois,2021,12703354
+Illinois,2022,12609577
+Illinois,2023,12633389
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2013,
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2014,
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2015,
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2016,
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2017,
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2018,
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2019,
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2020,
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2021,
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2022,
+"In May 2021, the estimates for Puerto Rico Commonwealth were appended to this file  In July 2021, estimates as of April 1, 2020 were appended to this file  No changes were made to the data originally released in December 2020",2023,
+Indiana,2013,6570575
+Indiana,2014,6596019
+Indiana,2015,6611442
+Indiana,2016,6637898
+Indiana,2017,6662068
+Indiana,2018,6698481
+Indiana,2019,6731010
+Indiana,2020,6754953
+Indiana,2021,6814223
+Indiana,2022,6841491
+Indiana,2023,6881373
+Iowa,2013,3093935
+Iowa,2014,3110643
+Iowa,2015,3122541
+Iowa,2016,3133210
+Iowa,2017,3143734
+Iowa,2018,3149900
+Iowa,2019,3159596
+Iowa,2020,3163561
+Iowa,2021,3199037
+Iowa,2022,3201890
+Iowa,2023,3214739
+Kansas,2013,2894306
+Kansas,2014,2901861
+Kansas,2015,2910717
+Kansas,2016,2912977
+Kansas,2017,2910892
+Kansas,2018,2912748
+Kansas,2019,2912635
+Kansas,2020,2913805
+Kansas,2021,2938966
+Kansas,2022,2938034
+Kansas,2023,2949749
+Kentucky,2013,4406906
+Kentucky,2014,4416992
+Kentucky,2015,4429126
+Kentucky,2016,4440306
+Kentucky,2017,4455590
+Kentucky,2018,4464273
+Kentucky,2019,4472345
+Kentucky,2020,4477251
+Kentucky,2021,4508348
+Kentucky,2022,4521238
+Kentucky,2023,4549953
+Louisiana,2013,4626040
+Louisiana,2014,4645938
+Louisiana,2015,4666998
+Louisiana,2016,4681346
+Louisiana,2017,4673673
+Louisiana,2018,4664450
+Louisiana,2019,4658285
+Louisiana,2020,4645318
+Louisiana,2021,4628595
+Louisiana,2022,4600892
+Louisiana,2023,4598777
+Maine,2013,1328543
+Maine,2014,1331217
+Maine,2015,1329098
+Maine,2016,1332348
+Maine,2017,1335743
+Maine,2018,1340123
+Maine,2019,1345770
+Maine,2020,1350141
+Maine,2021,1379009
+Maine,2022,1391585
+Maine,2023,1401992
+Maryland,2013,5925197
+Maryland,2014,5960064
+Maryland,2015,5988528
+Maryland,2016,6007014
+Maryland,2017,6028186
+Maryland,2018,6042153
+Maryland,2019,6054954
+Maryland,2020,6055802
+Maryland,2021,6176035
+Maryland,2022,6183257
+Maryland,2023,6204927
+Massachusetts,2013,6715158
+Massachusetts,2014,6764864
+Massachusetts,2015,6797484
+Massachusetts,2016,6827280
+Massachusetts,2017,6863560
+Massachusetts,2018,6885720
+Massachusetts,2019,6894883
+Massachusetts,2020,6893574
+Massachusetts,2021,6996721
+Massachusetts,2022,7025465
+Massachusetts,2023,7073479
+Michigan,2013,9914802
+Michigan,2014,9932033
+Michigan,2015,9934483
+Michigan,2016,9954117
+Michigan,2017,9976752
+Michigan,2018,9987286
+Michigan,2019,9984795
+Michigan,2020,9966555
+Michigan,2021,10042362
+Michigan,2022,10043906
+Michigan,2023,10062124
+Minnesota,2013,5414722
+Minnesota,2014,5452665
+Minnesota,2015,5484002
+Minnesota,2016,5525360
+Minnesota,2017,5569283
+Minnesota,2018,5608762
+Minnesota,2019,5640053
+Minnesota,2020,5657342
+Minnesota,2021,5714055
+Minnesota,2022,5727565
+Minnesota,2023,5752998
+Mississippi,2013,2989839
+Mississippi,2014,2991892
+Mississippi,2015,2990231
+Mississippi,2016,2990595
+Mississippi,2017,2990674
+Mississippi,2018,2982879
+Mississippi,2019,2978227
+Mississippi,2020,2966786
+Mississippi,2021,2947603
+Mississippi,2022,2941237
+Mississippi,2023,2942470
+Missouri,2013,6042989
+Missouri,2014,6059130
+Missouri,2015,6075411
+Missouri,2016,6091384
+Missouri,2017,6111382
+Missouri,2018,6125986
+Missouri,2019,6140475
+Missouri,2020,6151548
+Missouri,2021,6172551
+Missouri,2022,6179285
+Missouri,2023,6205956
+Montana,2013,1014158
+Montana,2014,1022657
+Montana,2015,1031495
+Montana,2016,1042137
+Montana,2017,1053862
+Montana,2018,1061818
+Montana,2019,1070123
+Montana,2020,1080577
+Montana,2021,1106416
+Montana,2022,1121533
+Montana,2023,1130612
+Nebraska,2013,1865813
+Nebraska,2014,1879955
+Nebraska,2015,1892059
+Nebraska,2016,1906483
+Nebraska,2017,1916998
+Nebraska,2018,1925512
+Nebraska,2019,1932571
+Nebraska,2020,1937552
+Nebraska,2021,1964697
+Nebraska,2022,1972595
+Nebraska,2023,1988172
+Nevada,2013,2776956
+Nevada,2014,2818935
+Nevada,2015,2868531
+Nevada,2016,2919555
+Nevada,2017,2972097
+Nevada,2018,3030725
+Nevada,2019,3090771
+Nevada,2020,3138259
+Nevada,2021,3148472
+Nevada,2022,3177672
+Nevada,2023,3211077
+New Hampshire,2013,1327272
+New Hampshire,2014,1334257
+New Hampshire,2015,1337480
+New Hampshire,2016,1343694
+New Hampshire,2017,1350395
+New Hampshire,2018,1355064
+New Hampshire,2019,1360783
+New Hampshire,2020,1366275
+New Hampshire,2021,1387907
+New Hampshire,2022,1396647
+New Hampshire,2023,1401530
+New Jersey,2013,8857821
+New Jersey,2014,8867277
+New Jersey,2015,8870312
+New Jersey,2016,8873584
+New Jersey,2017,8888147
+New Jersey,2018,8891730
+New Jersey,2019,8891258
+New Jersey,2020,8882371
+New Jersey,2021,9266509
+New Jersey,2022,9298402
+New Jersey,2023,9395315
+New Mexico,2013,2092833
+New Mexico,2014,2090236
+New Mexico,2015,2090071
+New Mexico,2016,2092555
+New Mexico,2017,2092844
+New Mexico,2018,2093754
+New Mexico,2019,2099634
+New Mexico,2020,2106319
+New Mexico,2021,2117300
+New Mexico,2022,2112859
+New Mexico,2023,2119349
+New York,2013,19626488
+New York,2014,19653431
+New York,2015,19657321
+New York,2016,19636391
+New York,2017,19593849
+New York,2018,19544098
+New York,2019,19463131
+New York,2020,19336776
+New York,2021,19835345
+New York,2022,19713025
+New York,2023,19786543
+North Carolina,2013,9846717
+North Carolina,2014,9937295
+North Carolina,2015,10037218
+North Carolina,2016,10161802
+North Carolina,2017,10275758
+North Carolina,2018,10391358
+North Carolina,2019,10501384
+North Carolina,2020,10600823
+North Carolina,2021,10565503
+North Carolina,2022,10705768
+North Carolina,2023,10871849
+North Dakota,2013,723149
+North Dakota,2014,738736
+North Dakota,2015,755537
+North Dakota,2016,756114
+North Dakota,2017,756755
+North Dakota,2018,760062
+North Dakota,2019,763724
+North Dakota,2020,765309
+North Dakota,2021,777977
+North Dakota,2022,780191
+North Dakota,2023,787071
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2013,
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2014,
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2015,
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2016,
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2017,
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2018,
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2019,
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2020,
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2021,
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2022,
+"Notes: The estimates are based on the 2010 Census and were created without incorporation or consideration of the 2020 Census results The estimates add births to, subtract deaths from, and add net migration to the enumerated resident population from the 2010 Census The enumerated resident population is the total population (citizen and noncitizen) with usual residence in the 50 states and the District of Columbia See https://wwwcensusgov/glossary/#term_Apportionmentpopulation and https://wwwcensusgov/glossary/#term_Residentpopulation The estimates reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at https://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region All geographic boundaries for the 2020 population estimates series are as of January 1, 2020 For population estimates methodology statements, see https://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2023,
+Ohio,2013,11579692
+Ohio,2014,11606573
+Ohio,2015,11622315
+Ohio,2016,11640060
+Ohio,2017,11665706
+Ohio,2018,11680892
+Ohio,2019,11696507
+Ohio,2020,11693217
+Ohio,2021,11761443
+Ohio,2022,11764950
+Ohio,2023,11808390
+Oklahoma,2013,3853891
+Oklahoma,2014,3879187
+Oklahoma,2015,3910518
+Oklahoma,2016,3928143
+Oklahoma,2017,3933602
+Oklahoma,2018,3943488
+Oklahoma,2019,3960676
+Oklahoma,2020,3980783
+Oklahoma,2021,3992760
+Oklahoma,2022,4025327
+Oklahoma,2023,4062716
+Oregon,2013,3924110
+Oregon,2014,3965447
+Oregon,2015,4018542
+Oregon,2016,4093271
+Oregon,2017,4147294
+Oregon,2018,4183538
+Oregon,2019,4216116
+Oregon,2020,4241507
+Oregon,2021,4254691
+Oregon,2022,4245964
+Oregon,2023,4250392
+Pennsylvania,2013,12779538
+Pennsylvania,2014,12792392
+Pennsylvania,2015,12789838
+Pennsylvania,2016,12788468
+Pennsylvania,2017,12794679
+Pennsylvania,2018,12809107
+Pennsylvania,2019,12798883
+Pennsylvania,2020,12783254
+Pennsylvania,2021,13016628
+Pennsylvania,2022,12984655
+Pennsylvania,2023,13009406
+Release Date: July 2021,2013,
+Release Date: July 2021,2014,
+Release Date: July 2021,2015,
+Release Date: July 2021,2016,
+Release Date: July 2021,2017,
+Release Date: July 2021,2018,
+Release Date: July 2021,2019,
+Release Date: July 2021,2020,
+Release Date: July 2021,2021,
+Release Date: July 2021,2022,
+Release Date: July 2021,2023,
+Rhode Island,2013,1055560
+Rhode Island,2014,1056511
+Rhode Island,2015,1056886
+Rhode Island,2016,1057816
+Rhode Island,2017,1056554
+Rhode Island,2018,1059338
+Rhode Island,2019,1058158
+Rhode Island,2020,1057125
+Rhode Island,2021,1097381
+Rhode Island,2022,1098275
+Rhode Island,2023,1101183
+"Source: US Census Bureau, Population Division",2013,
+"Source: US Census Bureau, Population Division",2014,
+"Source: US Census Bureau, Population Division",2015,
+"Source: US Census Bureau, Population Division",2016,
+"Source: US Census Bureau, Population Division",2017,
+"Source: US Census Bureau, Population Division",2018,
+"Source: US Census Bureau, Population Division",2019,
+"Source: US Census Bureau, Population Division",2020,
+"Source: US Census Bureau, Population Division",2021,
+"Source: US Census Bureau, Population Division",2022,
+"Source: US Census Bureau, Population Division",2023,
+South Carolina,2013,4766469
+South Carolina,2014,4826858
+South Carolina,2015,4896006
+South Carolina,2016,4963031
+South Carolina,2017,5027102
+South Carolina,2018,5091702
+South Carolina,2019,5157702
+South Carolina,2020,5218040
+South Carolina,2021,5194346
+South Carolina,2022,5288957
+South Carolina,2023,5390798
+South Dakota,2013,842751
+South Dakota,2014,849670
+South Dakota,2015,854663
+South Dakota,2016,863693
+South Dakota,2017,873732
+South Dakota,2018,879386
+South Dakota,2019,887127
+South Dakota,2020,892717
+South Dakota,2021,896303
+South Dakota,2022,909156
+South Dakota,2023,917739
+Suggested Citation:,2013,
+Suggested Citation:,2014,
+Suggested Citation:,2015,
+Suggested Citation:,2016,
+Suggested Citation:,2017,
+Suggested Citation:,2018,
+Suggested Citation:,2019,
+Suggested Citation:,2020,
+Suggested Citation:,2021,
+Suggested Citation:,2022,
+Suggested Citation:,2023,
+Tennessee,2013,6496943
+Tennessee,2014,6544617
+Tennessee,2015,6595354
+Tennessee,2016,6651277
+Tennessee,2017,6714748
+Tennessee,2018,6778180
+Tennessee,2019,6830325
+Tennessee,2020,6886834
+Tennessee,2021,6966687
+Tennessee,2022,7063325
+Tennessee,2023,7153029
+Texas,2013,26479646
+Texas,2014,26963092
+Texas,2015,27468531
+Texas,2016,27914064
+Texas,2017,28291024
+Texas,2018,28624564
+Texas,2019,28986794
+Texas,2020,29360759
+Texas,2021,29572672
+Texas,2022,30118002
+Texas,2023,30719247
+Utah,2013,2898773
+Utah,2014,2938327
+Utah,2015,2983626
+Utah,2016,3044241
+Utah,2017,3103540
+Utah,2018,3155153
+Utah,2019,3203383
+Utah,2020,3249879
+Utah,2021,3339874
+Utah,2022,3393928
+Utah,2023,3449259
+Vermont,2013,626603
+Vermont,2014,625693
+Vermont,2015,625810
+Vermont,2016,624366
+Vermont,2017,625132
+Vermont,2018,624802
+Vermont,2019,624046
+Vermont,2020,623347
+Vermont,2021,647238
+Vermont,2022,647614
+Vermont,2023,647722
+Virginia,2013,8255861
+Virginia,2014,8315430
+Virginia,2015,8367303
+Virginia,2016,8417651
+Virginia,2017,8471011
+Virginia,2018,8510920
+Virginia,2019,8556642
+Virginia,2020,8590563
+Virginia,2021,8660007
+Virginia,2022,8681038
+Virginia,2023,8732034
+Washington,2013,6966252
+Washington,2014,7057531
+Washington,2015,7167287
+Washington,2016,7299961
+Washington,2017,7427951
+Washington,2018,7526793
+Washington,2019,7614024
+Washington,2020,7693612
+Washington,2021,7744316
+Washington,2022,7786828
+Washington,2023,7838655
+West Virginia,2013,1854768
+West Virginia,2014,1850569
+West Virginia,2015,1843332
+West Virginia,2016,1832435
+West Virginia,2017,1818683
+West Virginia,2018,1805953
+West Virginia,2019,1795263
+West Virginia,2020,1784787
+West Virginia,2021,1785921
+West Virginia,2022,1774003
+West Virginia,2023,1770036
+Wisconsin,2013,5738012
+Wisconsin,2014,5753199
+Wisconsin,2015,5762927
+Wisconsin,2016,5775170
+Wisconsin,2017,5793147
+Wisconsin,2018,5809319
+Wisconsin,2019,5824581
+Wisconsin,2020,5832655
+Wisconsin,2021,5882128
+Wisconsin,2022,5903472
+Wisconsin,2023,5930350
+Wyoming,2013,582620
+Wyoming,2014,583159
+Wyoming,2015,586389
+Wyoming,2016,585243
+Wyoming,2017,579994
+Wyoming,2018,579054
+Wyoming,2019,580116
+Wyoming,2020,582328
+Wyoming,2021,579662
+Wyoming,2022,581742
+Wyoming,2023,584666
+nan,2013,
+nan,2014,
+nan,2015,
+nan,2016,
+nan,2017,
+nan,2018,
+nan,2019,
+nan,2020,
+nan,2021,
+nan,2022,
+nan,2023,
