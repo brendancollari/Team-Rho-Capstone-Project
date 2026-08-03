@@ -1,0 +1,2449 @@
+State,Year,Category,CategoryScore
+Alabama,2013,Care_Seeking,70.25
+Alaska,2013,Care_Seeking,62.75
+Arizona,2013,Care_Seeking,62.25
+Arkansas,2013,Care_Seeking,72.0
+California,2013,Care_Seeking,66.0
+Colorado,2013,Care_Seeking,64.25
+Connecticut,2013,Care_Seeking,77.0
+Delaware,2013,Care_Seeking,70.75
+District of Columbia,2013,Care_Seeking,68.5
+Florida,2013,Care_Seeking,64.75
+Georgia,2013,Care_Seeking,61.5
+Hawaii,2013,Care_Seeking,66.0
+Idaho,2013,Care_Seeking,65.5
+Illinois,2013,Care_Seeking,58.75
+Indiana,2013,Care_Seeking,60.5
+Iowa,2013,Care_Seeking,61.5
+Kansas,2013,Care_Seeking,62.0
+Kentucky,2013,Care_Seeking,67.75
+Louisiana,2013,Care_Seeking,84.5
+Maine,2013,Care_Seeking,69.0
+Maryland,2013,Care_Seeking,79.25
+Massachusetts,2013,Care_Seeking,69.25
+Michigan,2013,Care_Seeking,64.5
+Minnesota,2013,Care_Seeking,79.5
+Mississippi,2013,Care_Seeking,70.75
+Missouri,2013,Care_Seeking,62.5
+Montana,2013,Care_Seeking,79.25
+Nebraska,2013,Care_Seeking,65.0
+Nevada,2013,Care_Seeking,69.0
+New Hampshire,2013,Care_Seeking,65.0
+New Jersey,2013,Care_Seeking,71.75
+New Mexico,2013,Care_Seeking,67.25
+New York,2013,Care_Seeking,80.5
+North Carolina,2013,Care_Seeking,68.75
+North Dakota,2013,Care_Seeking,68.25
+Ohio,2013,Care_Seeking,59.75
+Oklahoma,2013,Care_Seeking,65.5
+Oregon,2013,Care_Seeking,44.75
+Pennsylvania,2013,Care_Seeking,72.5
+Rhode Island,2013,Care_Seeking,68.75
+South Carolina,2013,Care_Seeking,71.0
+South Dakota,2013,Care_Seeking,62.0
+Tennessee,2013,Care_Seeking,70.25
+Texas,2013,Care_Seeking,60.75
+Utah,2013,Care_Seeking,73.75
+Vermont,2013,Care_Seeking,72.75
+Virginia,2013,Care_Seeking,65.75
+Washington,2013,Care_Seeking,67.5
+West Virginia,2013,Care_Seeking,72.5
+Wisconsin,2013,Care_Seeking,64.0
+Wyoming,2013,Care_Seeking,56.0
+Alabama,2013,Economic_Hardship,68.75
+Alaska,2013,Economic_Hardship,60.0
+Arizona,2013,Economic_Hardship,61.75
+Arkansas,2013,Economic_Hardship,57.75
+California,2013,Economic_Hardship,42.75
+Colorado,2013,Economic_Hardship,61.0
+Connecticut,2013,Economic_Hardship,49.5
+Delaware,2013,Economic_Hardship,59.5
+District of Columbia,2013,Economic_Hardship,65.25
+Florida,2013,Economic_Hardship,69.25
+Georgia,2013,Economic_Hardship,64.25
+Hawaii,2013,Economic_Hardship,43.75
+Idaho,2013,Economic_Hardship,67.75
+Illinois,2013,Economic_Hardship,55.25
+Indiana,2013,Economic_Hardship,74.0
+Iowa,2013,Economic_Hardship,54.5
+Kansas,2013,Economic_Hardship,62.0
+Kentucky,2013,Economic_Hardship,65.25
+Louisiana,2013,Economic_Hardship,62.25
+Maine,2013,Economic_Hardship,49.75
+Maryland,2013,Economic_Hardship,62.25
+Massachusetts,2013,Economic_Hardship,47.5
+Michigan,2013,Economic_Hardship,59.5
+Minnesota,2013,Economic_Hardship,55.0
+Mississippi,2013,Economic_Hardship,61.5
+Missouri,2013,Economic_Hardship,66.5
+Montana,2013,Economic_Hardship,65.75
+Nebraska,2013,Economic_Hardship,56.75
+Nevada,2013,Economic_Hardship,75.0
+New Hampshire,2013,Economic_Hardship,51.0
+New Jersey,2013,Economic_Hardship,61.0
+New Mexico,2013,Economic_Hardship,59.0
+New York,2013,Economic_Hardship,62.25
+North Carolina,2013,Economic_Hardship,60.25
+North Dakota,2013,Economic_Hardship,42.5
+Ohio,2013,Economic_Hardship,67.0
+Oklahoma,2013,Economic_Hardship,56.25
+Oregon,2013,Economic_Hardship,47.25
+Pennsylvania,2013,Economic_Hardship,61.0
+Rhode Island,2013,Economic_Hardship,55.5
+South Carolina,2013,Economic_Hardship,58.0
+South Dakota,2013,Economic_Hardship,49.25
+Tennessee,2013,Economic_Hardship,64.5
+Texas,2013,Economic_Hardship,53.0
+Utah,2013,Economic_Hardship,60.5
+Vermont,2013,Economic_Hardship,46.25
+Virginia,2013,Economic_Hardship,52.25
+Washington,2013,Economic_Hardship,65.25
+West Virginia,2013,Economic_Hardship,54.75
+Wisconsin,2013,Economic_Hardship,64.5
+Wyoming,2013,Economic_Hardship,57.5
+Alabama,2013,Psychological_Distress,80.25
+Alaska,2013,Psychological_Distress,72.75
+Arizona,2013,Psychological_Distress,65.0
+Arkansas,2013,Psychological_Distress,73.0
+California,2013,Psychological_Distress,64.25
+Colorado,2013,Psychological_Distress,73.25
+Connecticut,2013,Psychological_Distress,77.5
+Delaware,2013,Psychological_Distress,72.0
+District of Columbia,2013,Psychological_Distress,68.25
+Florida,2013,Psychological_Distress,61.75
+Georgia,2013,Psychological_Distress,64.25
+Hawaii,2013,Psychological_Distress,55.5
+Idaho,2013,Psychological_Distress,73.25
+Illinois,2013,Psychological_Distress,70.25
+Indiana,2013,Psychological_Distress,76.75
+Iowa,2013,Psychological_Distress,75.5
+Kansas,2013,Psychological_Distress,76.75
+Kentucky,2013,Psychological_Distress,77.0
+Louisiana,2013,Psychological_Distress,72.0
+Maine,2013,Psychological_Distress,84.0
+Maryland,2013,Psychological_Distress,76.75
+Massachusetts,2013,Psychological_Distress,79.0
+Michigan,2013,Psychological_Distress,76.0
+Minnesota,2013,Psychological_Distress,79.25
+Mississippi,2013,Psychological_Distress,79.75
+Missouri,2013,Psychological_Distress,71.75
+Montana,2013,Psychological_Distress,81.25
+Nebraska,2013,Psychological_Distress,68.25
+Nevada,2013,Psychological_Distress,66.0
+New Hampshire,2013,Psychological_Distress,84.25
+New Jersey,2013,Psychological_Distress,68.25
+New Mexico,2013,Psychological_Distress,74.0
+New York,2013,Psychological_Distress,71.25
+North Carolina,2013,Psychological_Distress,74.5
+North Dakota,2013,Psychological_Distress,69.25
+Ohio,2013,Psychological_Distress,71.0
+Oklahoma,2013,Psychological_Distress,73.0
+Oregon,2013,Psychological_Distress,49.0
+Pennsylvania,2013,Psychological_Distress,80.75
+Rhode Island,2013,Psychological_Distress,78.0
+South Carolina,2013,Psychological_Distress,75.75
+South Dakota,2013,Psychological_Distress,68.25
+Tennessee,2013,Psychological_Distress,75.75
+Texas,2013,Psychological_Distress,61.75
+Utah,2013,Psychological_Distress,72.75
+Vermont,2013,Psychological_Distress,84.5
+Virginia,2013,Psychological_Distress,73.0
+Washington,2013,Psychological_Distress,73.5
+West Virginia,2013,Psychological_Distress,87.0
+Wisconsin,2013,Psychological_Distress,74.25
+Wyoming,2013,Psychological_Distress,67.0
+Alabama,2013,Substance_Use,59.5
+Alaska,2013,Substance_Use,44.5
+Arizona,2013,Substance_Use,58.25
+Arkansas,2013,Substance_Use,51.75
+California,2013,Substance_Use,46.5
+Colorado,2013,Substance_Use,45.75
+Connecticut,2013,Substance_Use,61.25
+Delaware,2013,Substance_Use,57.0
+District of Columbia,2013,Substance_Use,50.0
+Florida,2013,Substance_Use,53.25
+Georgia,2013,Substance_Use,52.75
+Hawaii,2013,Substance_Use,38.75
+Idaho,2013,Substance_Use,49.25
+Illinois,2013,Substance_Use,47.25
+Indiana,2013,Substance_Use,55.5
+Iowa,2013,Substance_Use,40.0
+Kansas,2013,Substance_Use,44.75
+Kentucky,2013,Substance_Use,65.75
+Louisiana,2013,Substance_Use,53.0
+Maine,2013,Substance_Use,72.75
+Maryland,2013,Substance_Use,53.75
+Massachusetts,2013,Substance_Use,58.25
+Michigan,2013,Substance_Use,53.75
+Minnesota,2013,Substance_Use,48.5
+Mississippi,2013,Substance_Use,50.75
+Missouri,2013,Substance_Use,54.5
+Montana,2013,Substance_Use,56.5
+Nebraska,2013,Substance_Use,41.5
+Nevada,2013,Substance_Use,47.75
+New Hampshire,2013,Substance_Use,54.25
+New Jersey,2013,Substance_Use,58.0
+New Mexico,2013,Substance_Use,55.75
+New York,2013,Substance_Use,48.5
+North Carolina,2013,Substance_Use,59.0
+North Dakota,2013,Substance_Use,44.75
+Ohio,2013,Substance_Use,56.5
+Oklahoma,2013,Substance_Use,51.75
+Oregon,2013,Substance_Use,33.5
+Pennsylvania,2013,Substance_Use,60.75
+Rhode Island,2013,Substance_Use,50.25
+South Carolina,2013,Substance_Use,49.0
+South Dakota,2013,Substance_Use,43.5
+Tennessee,2013,Substance_Use,60.75
+Texas,2013,Substance_Use,43.25
+Utah,2013,Substance_Use,48.75
+Vermont,2013,Substance_Use,57.25
+Virginia,2013,Substance_Use,49.75
+Washington,2013,Substance_Use,56.5
+West Virginia,2013,Substance_Use,92.75
+Wisconsin,2013,Substance_Use,56.75
+Wyoming,2013,Substance_Use,44.5
+Alabama,2014,Care_Seeking,69.5
+Alaska,2014,Care_Seeking,63.0
+Arizona,2014,Care_Seeking,67.25
+Arkansas,2014,Care_Seeking,68.5
+California,2014,Care_Seeking,66.75
+Colorado,2014,Care_Seeking,67.5
+Connecticut,2014,Care_Seeking,77.75
+Delaware,2014,Care_Seeking,74.5
+District of Columbia,2014,Care_Seeking,64.75
+Florida,2014,Care_Seeking,69.25
+Georgia,2014,Care_Seeking,60.75
+Hawaii,2014,Care_Seeking,64.25
+Idaho,2014,Care_Seeking,67.0
+Illinois,2014,Care_Seeking,64.0
+Indiana,2014,Care_Seeking,62.25
+Iowa,2014,Care_Seeking,63.25
+Kansas,2014,Care_Seeking,58.75
+Kentucky,2014,Care_Seeking,63.0
+Louisiana,2014,Care_Seeking,82.25
+Maine,2014,Care_Seeking,71.5
+Maryland,2014,Care_Seeking,84.25
+Massachusetts,2014,Care_Seeking,72.75
+Michigan,2014,Care_Seeking,65.0
+Minnesota,2014,Care_Seeking,80.5
+Mississippi,2014,Care_Seeking,68.75
+Missouri,2014,Care_Seeking,70.0
+Montana,2014,Care_Seeking,84.5
+Nebraska,2014,Care_Seeking,62.75
+Nevada,2014,Care_Seeking,68.0
+New Hampshire,2014,Care_Seeking,68.0
+New Jersey,2014,Care_Seeking,75.5
+New Mexico,2014,Care_Seeking,67.0
+New York,2014,Care_Seeking,82.5
+North Carolina,2014,Care_Seeking,66.5
+North Dakota,2014,Care_Seeking,62.0
+Ohio,2014,Care_Seeking,65.25
+Oklahoma,2014,Care_Seeking,65.75
+Oregon,2014,Care_Seeking,42.0
+Pennsylvania,2014,Care_Seeking,74.5
+Rhode Island,2014,Care_Seeking,71.25
+South Carolina,2014,Care_Seeking,66.75
+South Dakota,2014,Care_Seeking,63.5
+Tennessee,2014,Care_Seeking,68.75
+Texas,2014,Care_Seeking,64.0
+Utah,2014,Care_Seeking,73.25
+Vermont,2014,Care_Seeking,62.75
+Virginia,2014,Care_Seeking,49.0
+Washington,2014,Care_Seeking,72.5
+West Virginia,2014,Care_Seeking,64.5
+Wisconsin,2014,Care_Seeking,67.5
+Wyoming,2014,Care_Seeking,66.0
+Alabama,2014,Economic_Hardship,64.0
+Alaska,2014,Economic_Hardship,55.5
+Arizona,2014,Economic_Hardship,63.0
+Arkansas,2014,Economic_Hardship,58.25
+California,2014,Economic_Hardship,44.25
+Colorado,2014,Economic_Hardship,60.5
+Connecticut,2014,Economic_Hardship,48.75
+Delaware,2014,Economic_Hardship,61.75
+District of Columbia,2014,Economic_Hardship,59.5
+Florida,2014,Economic_Hardship,73.75
+Georgia,2014,Economic_Hardship,66.0
+Hawaii,2014,Economic_Hardship,42.25
+Idaho,2014,Economic_Hardship,66.75
+Illinois,2014,Economic_Hardship,57.0
+Indiana,2014,Economic_Hardship,70.75
+Iowa,2014,Economic_Hardship,53.25
+Kansas,2014,Economic_Hardship,57.5
+Kentucky,2014,Economic_Hardship,63.0
+Louisiana,2014,Economic_Hardship,64.25
+Maine,2014,Economic_Hardship,49.75
+Maryland,2014,Economic_Hardship,60.75
+Massachusetts,2014,Economic_Hardship,53.25
+Michigan,2014,Economic_Hardship,59.0
+Minnesota,2014,Economic_Hardship,55.0
+Mississippi,2014,Economic_Hardship,52.25
+Missouri,2014,Economic_Hardship,70.0
+Montana,2014,Economic_Hardship,62.0
+Nebraska,2014,Economic_Hardship,54.75
+Nevada,2014,Economic_Hardship,74.25
+New Hampshire,2014,Economic_Hardship,49.75
+New Jersey,2014,Economic_Hardship,62.75
+New Mexico,2014,Economic_Hardship,60.25
+New York,2014,Economic_Hardship,61.0
+North Carolina,2014,Economic_Hardship,55.25
+North Dakota,2014,Economic_Hardship,41.75
+Ohio,2014,Economic_Hardship,65.5
+Oklahoma,2014,Economic_Hardship,52.0
+Oregon,2014,Economic_Hardship,41.5
+Pennsylvania,2014,Economic_Hardship,60.75
+Rhode Island,2014,Economic_Hardship,63.75
+South Carolina,2014,Economic_Hardship,54.0
+South Dakota,2014,Economic_Hardship,50.75
+Tennessee,2014,Economic_Hardship,62.5
+Texas,2014,Economic_Hardship,50.75
+Utah,2014,Economic_Hardship,59.75
+Vermont,2014,Economic_Hardship,46.25
+Virginia,2014,Economic_Hardship,41.5
+Washington,2014,Economic_Hardship,59.75
+West Virginia,2014,Economic_Hardship,54.25
+Wisconsin,2014,Economic_Hardship,59.5
+Wyoming,2014,Economic_Hardship,54.75
+Alabama,2014,Psychological_Distress,79.5
+Alaska,2014,Psychological_Distress,65.5
+Arizona,2014,Psychological_Distress,64.75
+Arkansas,2014,Psychological_Distress,75.25
+California,2014,Psychological_Distress,64.25
+Colorado,2014,Psychological_Distress,73.25
+Connecticut,2014,Psychological_Distress,75.25
+Delaware,2014,Psychological_Distress,72.5
+District of Columbia,2014,Psychological_Distress,64.75
+Florida,2014,Psychological_Distress,63.75
+Georgia,2014,Psychological_Distress,62.75
+Hawaii,2014,Psychological_Distress,58.0
+Idaho,2014,Psychological_Distress,73.0
+Illinois,2014,Psychological_Distress,70.25
+Indiana,2014,Psychological_Distress,75.5
+Iowa,2014,Psychological_Distress,79.75
+Kansas,2014,Psychological_Distress,72.75
+Kentucky,2014,Psychological_Distress,75.0
+Louisiana,2014,Psychological_Distress,66.0
+Maine,2014,Psychological_Distress,86.25
+Maryland,2014,Psychological_Distress,74.75
+Massachusetts,2014,Psychological_Distress,80.5
+Michigan,2014,Psychological_Distress,75.75
+Minnesota,2014,Psychological_Distress,80.5
+Mississippi,2014,Psychological_Distress,76.25
+Missouri,2014,Psychological_Distress,71.0
+Montana,2014,Psychological_Distress,75.25
+Nebraska,2014,Psychological_Distress,69.25
+Nevada,2014,Psychological_Distress,65.0
+New Hampshire,2014,Psychological_Distress,85.25
+New Jersey,2014,Psychological_Distress,67.25
+New Mexico,2014,Psychological_Distress,68.75
+New York,2014,Psychological_Distress,70.75
+North Carolina,2014,Psychological_Distress,71.75
+North Dakota,2014,Psychological_Distress,67.75
+Ohio,2014,Psychological_Distress,73.5
+Oklahoma,2014,Psychological_Distress,68.75
+Oregon,2014,Psychological_Distress,45.5
+Pennsylvania,2014,Psychological_Distress,75.5
+Rhode Island,2014,Psychological_Distress,75.75
+South Carolina,2014,Psychological_Distress,73.25
+South Dakota,2014,Psychological_Distress,71.5
+Tennessee,2014,Psychological_Distress,74.75
+Texas,2014,Psychological_Distress,58.0
+Utah,2014,Psychological_Distress,75.0
+Vermont,2014,Psychological_Distress,81.5
+Virginia,2014,Psychological_Distress,52.75
+Washington,2014,Psychological_Distress,71.25
+West Virginia,2014,Psychological_Distress,83.75
+Wisconsin,2014,Psychological_Distress,75.0
+Wyoming,2014,Psychological_Distress,76.5
+Alabama,2014,Substance_Use,52.75
+Alaska,2014,Substance_Use,51.0
+Arizona,2014,Substance_Use,56.25
+Arkansas,2014,Substance_Use,52.5
+California,2014,Substance_Use,49.25
+Colorado,2014,Substance_Use,58.0
+Connecticut,2014,Substance_Use,64.75
+Delaware,2014,Substance_Use,66.25
+District of Columbia,2014,Substance_Use,53.75
+Florida,2014,Substance_Use,55.0
+Georgia,2014,Substance_Use,54.25
+Hawaii,2014,Substance_Use,39.0
+Idaho,2014,Substance_Use,45.75
+Illinois,2014,Substance_Use,49.5
+Indiana,2014,Substance_Use,71.75
+Iowa,2014,Substance_Use,39.0
+Kansas,2014,Substance_Use,42.75
+Kentucky,2014,Substance_Use,71.25
+Louisiana,2014,Substance_Use,46.5
+Maine,2014,Substance_Use,53.75
+Maryland,2014,Substance_Use,63.5
+Massachusetts,2014,Substance_Use,75.0
+Michigan,2014,Substance_Use,58.25
+Minnesota,2014,Substance_Use,53.75
+Mississippi,2014,Substance_Use,49.5
+Missouri,2014,Substance_Use,67.5
+Montana,2014,Substance_Use,43.75
+Nebraska,2014,Substance_Use,39.5
+Nevada,2014,Substance_Use,48.5
+New Hampshire,2014,Substance_Use,55.25
+New Jersey,2014,Substance_Use,62.5
+New Mexico,2014,Substance_Use,56.0
+New York,2014,Substance_Use,54.5
+North Carolina,2014,Substance_Use,61.0
+North Dakota,2014,Substance_Use,42.25
+Ohio,2014,Substance_Use,72.25
+Oklahoma,2014,Substance_Use,65.5
+Oregon,2014,Substance_Use,29.25
+Pennsylvania,2014,Substance_Use,68.0
+Rhode Island,2014,Substance_Use,55.75
+South Carolina,2014,Substance_Use,70.75
+South Dakota,2014,Substance_Use,44.25
+Tennessee,2014,Substance_Use,64.0
+Texas,2014,Substance_Use,47.0
+Utah,2014,Substance_Use,66.5
+Vermont,2014,Substance_Use,53.25
+Virginia,2014,Substance_Use,37.75
+Washington,2014,Substance_Use,59.75
+West Virginia,2014,Substance_Use,57.75
+Wisconsin,2014,Substance_Use,52.5
+Wyoming,2014,Substance_Use,58.75
+Alabama,2015,Care_Seeking,68.5
+Alaska,2015,Care_Seeking,62.25
+Arizona,2015,Care_Seeking,66.5
+Arkansas,2015,Care_Seeking,68.5
+California,2015,Care_Seeking,62.5
+Colorado,2015,Care_Seeking,66.5
+Connecticut,2015,Care_Seeking,76.5
+Delaware,2015,Care_Seeking,67.75
+District of Columbia,2015,Care_Seeking,63.5
+Florida,2015,Care_Seeking,65.25
+Georgia,2015,Care_Seeking,61.25
+Hawaii,2015,Care_Seeking,60.25
+Idaho,2015,Care_Seeking,62.25
+Illinois,2015,Care_Seeking,61.75
+Indiana,2015,Care_Seeking,62.0
+Iowa,2015,Care_Seeking,67.5
+Kansas,2015,Care_Seeking,51.5
+Kentucky,2015,Care_Seeking,66.5
+Louisiana,2015,Care_Seeking,82.25
+Maine,2015,Care_Seeking,65.25
+Maryland,2015,Care_Seeking,77.5
+Massachusetts,2015,Care_Seeking,74.25
+Michigan,2015,Care_Seeking,61.5
+Minnesota,2015,Care_Seeking,80.5
+Mississippi,2015,Care_Seeking,70.0
+Missouri,2015,Care_Seeking,71.0
+Montana,2015,Care_Seeking,83.25
+Nebraska,2015,Care_Seeking,63.25
+Nevada,2015,Care_Seeking,63.0
+New Hampshire,2015,Care_Seeking,62.75
+New Jersey,2015,Care_Seeking,74.75
+New Mexico,2015,Care_Seeking,64.25
+New York,2015,Care_Seeking,76.5
+North Carolina,2015,Care_Seeking,66.25
+North Dakota,2015,Care_Seeking,61.0
+Ohio,2015,Care_Seeking,62.75
+Oklahoma,2015,Care_Seeking,61.75
+Oregon,2015,Care_Seeking,51.75
+Pennsylvania,2015,Care_Seeking,75.0
+Rhode Island,2015,Care_Seeking,69.25
+South Carolina,2015,Care_Seeking,64.0
+South Dakota,2015,Care_Seeking,63.25
+Tennessee,2015,Care_Seeking,71.25
+Texas,2015,Care_Seeking,62.5
+Utah,2015,Care_Seeking,69.5
+Vermont,2015,Care_Seeking,74.25
+Virginia,2015,Care_Seeking,44.0
+Washington,2015,Care_Seeking,67.0
+West Virginia,2015,Care_Seeking,72.75
+Wisconsin,2015,Care_Seeking,65.0
+Wyoming,2015,Care_Seeking,69.75
+Alabama,2015,Economic_Hardship,65.5
+Alaska,2015,Economic_Hardship,56.5
+Arizona,2015,Economic_Hardship,63.0
+Arkansas,2015,Economic_Hardship,55.5
+California,2015,Economic_Hardship,45.25
+Colorado,2015,Economic_Hardship,59.25
+Connecticut,2015,Economic_Hardship,50.75
+Delaware,2015,Economic_Hardship,60.25
+District of Columbia,2015,Economic_Hardship,60.0
+Florida,2015,Economic_Hardship,64.5
+Georgia,2015,Economic_Hardship,63.0
+Hawaii,2015,Economic_Hardship,46.0
+Idaho,2015,Economic_Hardship,61.5
+Illinois,2015,Economic_Hardship,57.75
+Indiana,2015,Economic_Hardship,67.0
+Iowa,2015,Economic_Hardship,53.75
+Kansas,2015,Economic_Hardship,47.0
+Kentucky,2015,Economic_Hardship,64.0
+Louisiana,2015,Economic_Hardship,68.0
+Maine,2015,Economic_Hardship,48.75
+Maryland,2015,Economic_Hardship,57.0
+Massachusetts,2015,Economic_Hardship,50.5
+Michigan,2015,Economic_Hardship,55.5
+Minnesota,2015,Economic_Hardship,55.5
+Mississippi,2015,Economic_Hardship,54.75
+Missouri,2015,Economic_Hardship,63.5
+Montana,2015,Economic_Hardship,63.25
+Nebraska,2015,Economic_Hardship,53.25
+Nevada,2015,Economic_Hardship,73.5
+New Hampshire,2015,Economic_Hardship,49.5
+New Jersey,2015,Economic_Hardship,58.0
+New Mexico,2015,Economic_Hardship,56.75
+New York,2015,Economic_Hardship,58.25
+North Carolina,2015,Economic_Hardship,54.5
+North Dakota,2015,Economic_Hardship,49.25
+Ohio,2015,Economic_Hardship,63.75
+Oklahoma,2015,Economic_Hardship,58.75
+Oregon,2015,Economic_Hardship,52.25
+Pennsylvania,2015,Economic_Hardship,59.5
+Rhode Island,2015,Economic_Hardship,53.5
+South Carolina,2015,Economic_Hardship,58.5
+South Dakota,2015,Economic_Hardship,46.75
+Tennessee,2015,Economic_Hardship,61.75
+Texas,2015,Economic_Hardship,53.0
+Utah,2015,Economic_Hardship,56.75
+Vermont,2015,Economic_Hardship,48.5
+Virginia,2015,Economic_Hardship,34.25
+Washington,2015,Economic_Hardship,60.0
+West Virginia,2015,Economic_Hardship,55.75
+Wisconsin,2015,Economic_Hardship,59.75
+Wyoming,2015,Economic_Hardship,59.25
+Alabama,2015,Psychological_Distress,79.75
+Alaska,2015,Psychological_Distress,71.5
+Arizona,2015,Psychological_Distress,66.5
+Arkansas,2015,Psychological_Distress,76.0
+California,2015,Psychological_Distress,63.75
+Colorado,2015,Psychological_Distress,75.0
+Connecticut,2015,Psychological_Distress,77.75
+Delaware,2015,Psychological_Distress,67.5
+District of Columbia,2015,Psychological_Distress,66.5
+Florida,2015,Psychological_Distress,60.75
+Georgia,2015,Psychological_Distress,63.75
+Hawaii,2015,Psychological_Distress,60.0
+Idaho,2015,Psychological_Distress,74.0
+Illinois,2015,Psychological_Distress,71.25
+Indiana,2015,Psychological_Distress,76.75
+Iowa,2015,Psychological_Distress,81.25
+Kansas,2015,Psychological_Distress,63.5
+Kentucky,2015,Psychological_Distress,79.0
+Louisiana,2015,Psychological_Distress,72.5
+Maine,2015,Psychological_Distress,85.75
+Maryland,2015,Psychological_Distress,75.25
+Massachusetts,2015,Psychological_Distress,77.0
+Michigan,2015,Psychological_Distress,74.75
+Minnesota,2015,Psychological_Distress,86.75
+Mississippi,2015,Psychological_Distress,80.75
+Missouri,2015,Psychological_Distress,74.25
+Montana,2015,Psychological_Distress,76.0
+Nebraska,2015,Psychological_Distress,69.0
+Nevada,2015,Psychological_Distress,65.25
+New Hampshire,2015,Psychological_Distress,82.75
+New Jersey,2015,Psychological_Distress,67.25
+New Mexico,2015,Psychological_Distress,70.5
+New York,2015,Psychological_Distress,66.75
+North Carolina,2015,Psychological_Distress,73.5
+North Dakota,2015,Psychological_Distress,73.25
+Ohio,2015,Psychological_Distress,74.5
+Oklahoma,2015,Psychological_Distress,73.5
+Oregon,2015,Psychological_Distress,61.0
+Pennsylvania,2015,Psychological_Distress,73.5
+Rhode Island,2015,Psychological_Distress,78.5
+South Carolina,2015,Psychological_Distress,77.75
+South Dakota,2015,Psychological_Distress,73.0
+Tennessee,2015,Psychological_Distress,72.0
+Texas,2015,Psychological_Distress,58.5
+Utah,2015,Psychological_Distress,76.5
+Vermont,2015,Psychological_Distress,78.75
+Virginia,2015,Psychological_Distress,44.75
+Washington,2015,Psychological_Distress,71.5
+West Virginia,2015,Psychological_Distress,88.5
+Wisconsin,2015,Psychological_Distress,77.25
+Wyoming,2015,Psychological_Distress,70.5
+Alabama,2015,Substance_Use,47.5
+Alaska,2015,Substance_Use,43.0
+Arizona,2015,Substance_Use,50.75
+Arkansas,2015,Substance_Use,48.25
+California,2015,Substance_Use,40.25
+Colorado,2015,Substance_Use,46.5
+Connecticut,2015,Substance_Use,55.5
+Delaware,2015,Substance_Use,48.75
+District of Columbia,2015,Substance_Use,51.5
+Florida,2015,Substance_Use,45.5
+Georgia,2015,Substance_Use,48.25
+Hawaii,2015,Substance_Use,36.5
+Idaho,2015,Substance_Use,45.5
+Illinois,2015,Substance_Use,44.75
+Indiana,2015,Substance_Use,54.0
+Iowa,2015,Substance_Use,35.75
+Kansas,2015,Substance_Use,32.75
+Kentucky,2015,Substance_Use,57.5
+Louisiana,2015,Substance_Use,47.5
+Maine,2015,Substance_Use,46.25
+Maryland,2015,Substance_Use,48.5
+Massachusetts,2015,Substance_Use,68.75
+Michigan,2015,Substance_Use,51.25
+Minnesota,2015,Substance_Use,44.75
+Mississippi,2015,Substance_Use,47.25
+Missouri,2015,Substance_Use,52.0
+Montana,2015,Substance_Use,42.75
+Nebraska,2015,Substance_Use,37.5
+Nevada,2015,Substance_Use,45.0
+New Hampshire,2015,Substance_Use,71.25
+New Jersey,2015,Substance_Use,48.5
+New Mexico,2015,Substance_Use,50.5
+New York,2015,Substance_Use,44.0
+North Carolina,2015,Substance_Use,49.5
+North Dakota,2015,Substance_Use,39.25
+Ohio,2015,Substance_Use,57.25
+Oklahoma,2015,Substance_Use,46.25
+Oregon,2015,Substance_Use,37.0
+Pennsylvania,2015,Substance_Use,58.5
+Rhode Island,2015,Substance_Use,63.0
+South Carolina,2015,Substance_Use,55.0
+South Dakota,2015,Substance_Use,48.0
+Tennessee,2015,Substance_Use,55.75
+Texas,2015,Substance_Use,39.5
+Utah,2015,Substance_Use,43.25
+Vermont,2015,Substance_Use,71.25
+Virginia,2015,Substance_Use,28.25
+Washington,2015,Substance_Use,48.0
+West Virginia,2015,Substance_Use,58.75
+Wisconsin,2015,Substance_Use,44.5
+Wyoming,2015,Substance_Use,27.25
+Alabama,2016,Care_Seeking,67.0
+Alaska,2016,Care_Seeking,65.0
+Arizona,2016,Care_Seeking,67.25
+Arkansas,2016,Care_Seeking,68.75
+California,2016,Care_Seeking,64.75
+Colorado,2016,Care_Seeking,68.5
+Connecticut,2016,Care_Seeking,82.0
+Delaware,2016,Care_Seeking,70.25
+District of Columbia,2016,Care_Seeking,64.5
+Florida,2016,Care_Seeking,66.0
+Georgia,2016,Care_Seeking,62.75
+Hawaii,2016,Care_Seeking,59.75
+Idaho,2016,Care_Seeking,60.5
+Illinois,2016,Care_Seeking,64.0
+Indiana,2016,Care_Seeking,61.25
+Iowa,2016,Care_Seeking,63.25
+Kansas,2016,Care_Seeking,59.0
+Kentucky,2016,Care_Seeking,65.75
+Louisiana,2016,Care_Seeking,86.0
+Maine,2016,Care_Seeking,65.75
+Maryland,2016,Care_Seeking,78.0
+Massachusetts,2016,Care_Seeking,71.25
+Michigan,2016,Care_Seeking,62.0
+Minnesota,2016,Care_Seeking,78.0
+Mississippi,2016,Care_Seeking,71.5
+Missouri,2016,Care_Seeking,68.0
+Montana,2016,Care_Seeking,77.0
+Nebraska,2016,Care_Seeking,64.0
+Nevada,2016,Care_Seeking,61.5
+New Hampshire,2016,Care_Seeking,62.75
+New Jersey,2016,Care_Seeking,77.0
+New Mexico,2016,Care_Seeking,63.0
+New York,2016,Care_Seeking,82.5
+North Carolina,2016,Care_Seeking,65.75
+North Dakota,2016,Care_Seeking,59.0
+Ohio,2016,Care_Seeking,62.75
+Oklahoma,2016,Care_Seeking,63.0
+Oregon,2016,Care_Seeking,63.75
+Pennsylvania,2016,Care_Seeking,74.0
+Rhode Island,2016,Care_Seeking,71.5
+South Carolina,2016,Care_Seeking,65.75
+South Dakota,2016,Care_Seeking,60.0
+Tennessee,2016,Care_Seeking,67.5
+Texas,2016,Care_Seeking,65.5
+Utah,2016,Care_Seeking,69.5
+Vermont,2016,Care_Seeking,63.25
+Virginia,2016,Care_Seeking,70.5
+Washington,2016,Care_Seeking,66.5
+West Virginia,2016,Care_Seeking,66.75
+Wisconsin,2016,Care_Seeking,63.5
+Wyoming,2016,Care_Seeking,67.25
+Alabama,2016,Economic_Hardship,60.75
+Alaska,2016,Economic_Hardship,62.75
+Arizona,2016,Economic_Hardship,58.75
+Arkansas,2016,Economic_Hardship,53.25
+California,2016,Economic_Hardship,42.5
+Colorado,2016,Economic_Hardship,59.25
+Connecticut,2016,Economic_Hardship,49.5
+Delaware,2016,Economic_Hardship,57.25
+District of Columbia,2016,Economic_Hardship,55.75
+Florida,2016,Economic_Hardship,56.75
+Georgia,2016,Economic_Hardship,55.0
+Hawaii,2016,Economic_Hardship,49.5
+Idaho,2016,Economic_Hardship,58.5
+Illinois,2016,Economic_Hardship,56.5
+Indiana,2016,Economic_Hardship,66.75
+Iowa,2016,Economic_Hardship,52.0
+Kansas,2016,Economic_Hardship,57.5
+Kentucky,2016,Economic_Hardship,58.75
+Louisiana,2016,Economic_Hardship,69.25
+Maine,2016,Economic_Hardship,42.25
+Maryland,2016,Economic_Hardship,58.5
+Massachusetts,2016,Economic_Hardship,51.75
+Michigan,2016,Economic_Hardship,51.0
+Minnesota,2016,Economic_Hardship,50.75
+Mississippi,2016,Economic_Hardship,54.25
+Missouri,2016,Economic_Hardship,64.5
+Montana,2016,Economic_Hardship,60.0
+Nebraska,2016,Economic_Hardship,47.0
+Nevada,2016,Economic_Hardship,66.25
+New Hampshire,2016,Economic_Hardship,44.0
+New Jersey,2016,Economic_Hardship,53.25
+New Mexico,2016,Economic_Hardship,54.0
+New York,2016,Economic_Hardship,61.25
+North Carolina,2016,Economic_Hardship,49.5
+North Dakota,2016,Economic_Hardship,48.0
+Ohio,2016,Economic_Hardship,61.0
+Oklahoma,2016,Economic_Hardship,68.25
+Oregon,2016,Economic_Hardship,64.75
+Pennsylvania,2016,Economic_Hardship,57.25
+Rhode Island,2016,Economic_Hardship,50.5
+South Carolina,2016,Economic_Hardship,47.5
+South Dakota,2016,Economic_Hardship,44.0
+Tennessee,2016,Economic_Hardship,59.75
+Texas,2016,Economic_Hardship,49.0
+Utah,2016,Economic_Hardship,55.25
+Vermont,2016,Economic_Hardship,45.75
+Virginia,2016,Economic_Hardship,52.0
+Washington,2016,Economic_Hardship,60.5
+West Virginia,2016,Economic_Hardship,55.0
+Wisconsin,2016,Economic_Hardship,61.5
+Wyoming,2016,Economic_Hardship,65.5
+Alabama,2016,Psychological_Distress,77.75
+Alaska,2016,Psychological_Distress,70.0
+Arizona,2016,Psychological_Distress,66.0
+Arkansas,2016,Psychological_Distress,73.25
+California,2016,Psychological_Distress,68.75
+Colorado,2016,Psychological_Distress,74.25
+Connecticut,2016,Psychological_Distress,75.25
+Delaware,2016,Psychological_Distress,69.25
+District of Columbia,2016,Psychological_Distress,70.75
+Florida,2016,Psychological_Distress,64.75
+Georgia,2016,Psychological_Distress,64.5
+Hawaii,2016,Psychological_Distress,55.75
+Idaho,2016,Psychological_Distress,71.75
+Illinois,2016,Psychological_Distress,71.5
+Indiana,2016,Psychological_Distress,77.0
+Iowa,2016,Psychological_Distress,78.25
+Kansas,2016,Psychological_Distress,78.0
+Kentucky,2016,Psychological_Distress,77.25
+Louisiana,2016,Psychological_Distress,74.0
+Maine,2016,Psychological_Distress,83.0
+Maryland,2016,Psychological_Distress,73.0
+Massachusetts,2016,Psychological_Distress,77.75
+Michigan,2016,Psychological_Distress,75.25
+Minnesota,2016,Psychological_Distress,85.25
+Mississippi,2016,Psychological_Distress,80.25
+Missouri,2016,Psychological_Distress,75.25
+Montana,2016,Psychological_Distress,80.5
+Nebraska,2016,Psychological_Distress,73.25
+Nevada,2016,Psychological_Distress,62.5
+New Hampshire,2016,Psychological_Distress,81.0
+New Jersey,2016,Psychological_Distress,66.75
+New Mexico,2016,Psychological_Distress,68.25
+New York,2016,Psychological_Distress,74.75
+North Carolina,2016,Psychological_Distress,72.0
+North Dakota,2016,Psychological_Distress,73.25
+Ohio,2016,Psychological_Distress,76.25
+Oklahoma,2016,Psychological_Distress,77.75
+Oregon,2016,Psychological_Distress,73.75
+Pennsylvania,2016,Psychological_Distress,79.5
+Rhode Island,2016,Psychological_Distress,75.25
+South Carolina,2016,Psychological_Distress,76.0
+South Dakota,2016,Psychological_Distress,69.5
+Tennessee,2016,Psychological_Distress,73.5
+Texas,2016,Psychological_Distress,59.75
+Utah,2016,Psychological_Distress,77.5
+Vermont,2016,Psychological_Distress,84.75
+Virginia,2016,Psychological_Distress,71.0
+Washington,2016,Psychological_Distress,72.5
+West Virginia,2016,Psychological_Distress,86.5
+Wisconsin,2016,Psychological_Distress,74.75
+Wyoming,2016,Psychological_Distress,69.0
+Alabama,2016,Substance_Use,60.5
+Alaska,2016,Substance_Use,58.25
+Arizona,2016,Substance_Use,57.5
+Arkansas,2016,Substance_Use,55.25
+California,2016,Substance_Use,46.75
+Colorado,2016,Substance_Use,58.75
+Connecticut,2016,Substance_Use,68.0
+Delaware,2016,Substance_Use,55.0
+District of Columbia,2016,Substance_Use,61.75
+Florida,2016,Substance_Use,58.25
+Georgia,2016,Substance_Use,48.25
+Hawaii,2016,Substance_Use,55.25
+Idaho,2016,Substance_Use,48.0
+Illinois,2016,Substance_Use,47.0
+Indiana,2016,Substance_Use,61.25
+Iowa,2016,Substance_Use,43.75
+Kansas,2016,Substance_Use,63.5
+Kentucky,2016,Substance_Use,64.25
+Louisiana,2016,Substance_Use,52.25
+Maine,2016,Substance_Use,68.0
+Maryland,2016,Substance_Use,64.25
+Massachusetts,2016,Substance_Use,77.5
+Michigan,2016,Substance_Use,54.0
+Minnesota,2016,Substance_Use,56.0
+Mississippi,2016,Substance_Use,56.25
+Missouri,2016,Substance_Use,60.0
+Montana,2016,Substance_Use,54.0
+Nebraska,2016,Substance_Use,44.25
+Nevada,2016,Substance_Use,52.5
+New Hampshire,2016,Substance_Use,82.5
+New Jersey,2016,Substance_Use,56.0
+New Mexico,2016,Substance_Use,63.75
+New York,2016,Substance_Use,64.25
+North Carolina,2016,Substance_Use,55.25
+North Dakota,2016,Substance_Use,35.0
+Ohio,2016,Substance_Use,61.0
+Oklahoma,2016,Substance_Use,62.25
+Oregon,2016,Substance_Use,64.25
+Pennsylvania,2016,Substance_Use,68.75
+Rhode Island,2016,Substance_Use,66.5
+South Carolina,2016,Substance_Use,56.25
+South Dakota,2016,Substance_Use,41.75
+Tennessee,2016,Substance_Use,64.5
+Texas,2016,Substance_Use,45.0
+Utah,2016,Substance_Use,54.75
+Vermont,2016,Substance_Use,71.0
+Virginia,2016,Substance_Use,55.75
+Washington,2016,Substance_Use,55.75
+West Virginia,2016,Substance_Use,86.25
+Wisconsin,2016,Substance_Use,51.75
+Wyoming,2016,Substance_Use,46.0
+Alabama,2017,Care_Seeking,70.0
+Alaska,2017,Care_Seeking,66.0
+Arizona,2017,Care_Seeking,65.5
+Arkansas,2017,Care_Seeking,67.75
+California,2017,Care_Seeking,67.0
+Colorado,2017,Care_Seeking,68.75
+Connecticut,2017,Care_Seeking,79.0
+Delaware,2017,Care_Seeking,66.5
+District of Columbia,2017,Care_Seeking,62.75
+Florida,2017,Care_Seeking,63.75
+Georgia,2017,Care_Seeking,61.75
+Hawaii,2017,Care_Seeking,57.25
+Idaho,2017,Care_Seeking,61.75
+Illinois,2017,Care_Seeking,63.0
+Indiana,2017,Care_Seeking,60.25
+Iowa,2017,Care_Seeking,65.5
+Kansas,2017,Care_Seeking,58.75
+Kentucky,2017,Care_Seeking,65.25
+Louisiana,2017,Care_Seeking,79.75
+Maine,2017,Care_Seeking,63.25
+Maryland,2017,Care_Seeking,74.0
+Massachusetts,2017,Care_Seeking,68.0
+Michigan,2017,Care_Seeking,64.5
+Minnesota,2017,Care_Seeking,79.5
+Mississippi,2017,Care_Seeking,66.75
+Missouri,2017,Care_Seeking,69.0
+Montana,2017,Care_Seeking,74.75
+Nebraska,2017,Care_Seeking,67.25
+Nevada,2017,Care_Seeking,61.0
+New Hampshire,2017,Care_Seeking,61.0
+New Jersey,2017,Care_Seeking,76.25
+New Mexico,2017,Care_Seeking,64.25
+New York,2017,Care_Seeking,85.25
+North Carolina,2017,Care_Seeking,62.5
+North Dakota,2017,Care_Seeking,63.5
+Ohio,2017,Care_Seeking,61.25
+Oklahoma,2017,Care_Seeking,66.5
+Oregon,2017,Care_Seeking,65.5
+Pennsylvania,2017,Care_Seeking,74.0
+Rhode Island,2017,Care_Seeking,70.5
+South Carolina,2017,Care_Seeking,66.75
+South Dakota,2017,Care_Seeking,54.5
+Tennessee,2017,Care_Seeking,67.25
+Texas,2017,Care_Seeking,60.75
+Utah,2017,Care_Seeking,65.25
+Vermont,2017,Care_Seeking,68.0
+Virginia,2017,Care_Seeking,69.0
+Washington,2017,Care_Seeking,67.5
+West Virginia,2017,Care_Seeking,66.25
+Wisconsin,2017,Care_Seeking,62.5
+Wyoming,2017,Care_Seeking,71.25
+Alabama,2017,Economic_Hardship,59.0
+Alaska,2017,Economic_Hardship,58.5
+Arizona,2017,Economic_Hardship,55.25
+Arkansas,2017,Economic_Hardship,50.0
+California,2017,Economic_Hardship,40.0
+Colorado,2017,Economic_Hardship,54.25
+Connecticut,2017,Economic_Hardship,49.25
+Delaware,2017,Economic_Hardship,54.5
+District of Columbia,2017,Economic_Hardship,50.25
+Florida,2017,Economic_Hardship,57.25
+Georgia,2017,Economic_Hardship,51.25
+Hawaii,2017,Economic_Hardship,47.75
+Idaho,2017,Economic_Hardship,59.25
+Illinois,2017,Economic_Hardship,47.5
+Indiana,2017,Economic_Hardship,60.75
+Iowa,2017,Economic_Hardship,54.75
+Kansas,2017,Economic_Hardship,58.75
+Kentucky,2017,Economic_Hardship,57.5
+Louisiana,2017,Economic_Hardship,64.0
+Maine,2017,Economic_Hardship,39.25
+Maryland,2017,Economic_Hardship,53.0
+Massachusetts,2017,Economic_Hardship,46.0
+Michigan,2017,Economic_Hardship,48.0
+Minnesota,2017,Economic_Hardship,48.5
+Mississippi,2017,Economic_Hardship,49.0
+Missouri,2017,Economic_Hardship,61.75
+Montana,2017,Economic_Hardship,57.0
+Nebraska,2017,Economic_Hardship,42.75
+Nevada,2017,Economic_Hardship,63.0
+New Hampshire,2017,Economic_Hardship,39.25
+New Jersey,2017,Economic_Hardship,48.25
+New Mexico,2017,Economic_Hardship,48.0
+New York,2017,Economic_Hardship,54.0
+North Carolina,2017,Economic_Hardship,43.5
+North Dakota,2017,Economic_Hardship,45.75
+Ohio,2017,Economic_Hardship,59.75
+Oklahoma,2017,Economic_Hardship,58.5
+Oregon,2017,Economic_Hardship,64.75
+Pennsylvania,2017,Economic_Hardship,55.75
+Rhode Island,2017,Economic_Hardship,49.0
+South Carolina,2017,Economic_Hardship,47.0
+South Dakota,2017,Economic_Hardship,41.0
+Tennessee,2017,Economic_Hardship,51.75
+Texas,2017,Economic_Hardship,46.5
+Utah,2017,Economic_Hardship,50.75
+Vermont,2017,Economic_Hardship,42.25
+Virginia,2017,Economic_Hardship,46.75
+Washington,2017,Economic_Hardship,54.75
+West Virginia,2017,Economic_Hardship,48.5
+Wisconsin,2017,Economic_Hardship,56.5
+Wyoming,2017,Economic_Hardship,57.75
+Alabama,2017,Psychological_Distress,76.25
+Alaska,2017,Psychological_Distress,65.75
+Arizona,2017,Psychological_Distress,66.25
+Arkansas,2017,Psychological_Distress,74.75
+California,2017,Psychological_Distress,67.0
+Colorado,2017,Psychological_Distress,73.75
+Connecticut,2017,Psychological_Distress,76.75
+Delaware,2017,Psychological_Distress,68.5
+District of Columbia,2017,Psychological_Distress,64.5
+Florida,2017,Psychological_Distress,61.25
+Georgia,2017,Psychological_Distress,66.0
+Hawaii,2017,Psychological_Distress,57.25
+Idaho,2017,Psychological_Distress,75.0
+Illinois,2017,Psychological_Distress,70.5
+Indiana,2017,Psychological_Distress,74.5
+Iowa,2017,Psychological_Distress,82.0
+Kansas,2017,Psychological_Distress,75.0
+Kentucky,2017,Psychological_Distress,76.75
+Louisiana,2017,Psychological_Distress,73.5
+Maine,2017,Psychological_Distress,81.5
+Maryland,2017,Psychological_Distress,72.25
+Massachusetts,2017,Psychological_Distress,75.75
+Michigan,2017,Psychological_Distress,77.5
+Minnesota,2017,Psychological_Distress,83.25
+Mississippi,2017,Psychological_Distress,77.5
+Missouri,2017,Psychological_Distress,72.0
+Montana,2017,Psychological_Distress,78.75
+Nebraska,2017,Psychological_Distress,71.0
+Nevada,2017,Psychological_Distress,67.0
+New Hampshire,2017,Psychological_Distress,82.0
+New Jersey,2017,Psychological_Distress,66.0
+New Mexico,2017,Psychological_Distress,65.25
+New York,2017,Psychological_Distress,72.5
+North Carolina,2017,Psychological_Distress,69.0
+North Dakota,2017,Psychological_Distress,74.5
+Ohio,2017,Psychological_Distress,77.5
+Oklahoma,2017,Psychological_Distress,77.0
+Oregon,2017,Psychological_Distress,76.0
+Pennsylvania,2017,Psychological_Distress,80.0
+Rhode Island,2017,Psychological_Distress,75.5
+South Carolina,2017,Psychological_Distress,74.0
+South Dakota,2017,Psychological_Distress,71.25
+Tennessee,2017,Psychological_Distress,72.25
+Texas,2017,Psychological_Distress,60.25
+Utah,2017,Psychological_Distress,78.25
+Vermont,2017,Psychological_Distress,84.25
+Virginia,2017,Psychological_Distress,71.5
+Washington,2017,Psychological_Distress,71.25
+West Virginia,2017,Psychological_Distress,85.25
+Wisconsin,2017,Psychological_Distress,74.75
+Wyoming,2017,Psychological_Distress,63.75
+Alabama,2017,Substance_Use,52.75
+Alaska,2017,Substance_Use,50.5
+Arizona,2017,Substance_Use,53.5
+Arkansas,2017,Substance_Use,54.75
+California,2017,Substance_Use,43.0
+Colorado,2017,Substance_Use,60.25
+Connecticut,2017,Substance_Use,56.5
+Delaware,2017,Substance_Use,56.75
+District of Columbia,2017,Substance_Use,59.75
+Florida,2017,Substance_Use,48.0
+Georgia,2017,Substance_Use,46.75
+Hawaii,2017,Substance_Use,43.0
+Idaho,2017,Substance_Use,53.5
+Illinois,2017,Substance_Use,44.25
+Indiana,2017,Substance_Use,55.5
+Iowa,2017,Substance_Use,44.5
+Kansas,2017,Substance_Use,78.25
+Kentucky,2017,Substance_Use,62.25
+Louisiana,2017,Substance_Use,52.75
+Maine,2017,Substance_Use,61.25
+Maryland,2017,Substance_Use,61.25
+Massachusetts,2017,Substance_Use,62.5
+Michigan,2017,Substance_Use,51.75
+Minnesota,2017,Substance_Use,49.0
+Mississippi,2017,Substance_Use,51.5
+Missouri,2017,Substance_Use,49.75
+Montana,2017,Substance_Use,51.75
+Nebraska,2017,Substance_Use,40.75
+Nevada,2017,Substance_Use,46.0
+New Hampshire,2017,Substance_Use,60.75
+New Jersey,2017,Substance_Use,53.0
+New Mexico,2017,Substance_Use,51.0
+New York,2017,Substance_Use,58.0
+North Carolina,2017,Substance_Use,53.5
+North Dakota,2017,Substance_Use,50.25
+Ohio,2017,Substance_Use,57.25
+Oklahoma,2017,Substance_Use,56.25
+Oregon,2017,Substance_Use,54.25
+Pennsylvania,2017,Substance_Use,63.75
+Rhode Island,2017,Substance_Use,52.25
+South Carolina,2017,Substance_Use,53.0
+South Dakota,2017,Substance_Use,44.25
+Tennessee,2017,Substance_Use,55.0
+Texas,2017,Substance_Use,40.0
+Utah,2017,Substance_Use,50.0
+Vermont,2017,Substance_Use,65.5
+Virginia,2017,Substance_Use,54.25
+Washington,2017,Substance_Use,53.5
+West Virginia,2017,Substance_Use,74.25
+Wisconsin,2017,Substance_Use,48.0
+Wyoming,2017,Substance_Use,54.25
+Alabama,2018,Care_Seeking,67.75
+Alaska,2018,Care_Seeking,63.25
+Arizona,2018,Care_Seeking,66.5
+Arkansas,2018,Care_Seeking,68.25
+California,2018,Care_Seeking,62.75
+Colorado,2018,Care_Seeking,65.5
+Connecticut,2018,Care_Seeking,73.25
+Delaware,2018,Care_Seeking,65.25
+District of Columbia,2018,Care_Seeking,70.25
+Florida,2018,Care_Seeking,64.5
+Georgia,2018,Care_Seeking,63.75
+Hawaii,2018,Care_Seeking,54.75
+Idaho,2018,Care_Seeking,58.75
+Illinois,2018,Care_Seeking,61.25
+Indiana,2018,Care_Seeking,59.0
+Iowa,2018,Care_Seeking,61.75
+Kansas,2018,Care_Seeking,64.75
+Kentucky,2018,Care_Seeking,66.25
+Louisiana,2018,Care_Seeking,78.25
+Maine,2018,Care_Seeking,59.5
+Maryland,2018,Care_Seeking,75.25
+Massachusetts,2018,Care_Seeking,65.75
+Michigan,2018,Care_Seeking,63.5
+Minnesota,2018,Care_Seeking,79.5
+Mississippi,2018,Care_Seeking,66.75
+Missouri,2018,Care_Seeking,61.75
+Montana,2018,Care_Seeking,74.0
+Nebraska,2018,Care_Seeking,61.75
+Nevada,2018,Care_Seeking,56.75
+New Hampshire,2018,Care_Seeking,62.75
+New Jersey,2018,Care_Seeking,74.0
+New Mexico,2018,Care_Seeking,63.5
+New York,2018,Care_Seeking,87.25
+North Carolina,2018,Care_Seeking,60.0
+North Dakota,2018,Care_Seeking,60.5
+Ohio,2018,Care_Seeking,57.5
+Oklahoma,2018,Care_Seeking,57.75
+Oregon,2018,Care_Seeking,70.0
+Pennsylvania,2018,Care_Seeking,69.25
+Rhode Island,2018,Care_Seeking,66.0
+South Carolina,2018,Care_Seeking,61.5
+South Dakota,2018,Care_Seeking,52.75
+Tennessee,2018,Care_Seeking,66.0
+Texas,2018,Care_Seeking,61.25
+Utah,2018,Care_Seeking,66.0
+Vermont,2018,Care_Seeking,67.0
+Virginia,2018,Care_Seeking,70.5
+Washington,2018,Care_Seeking,65.0
+West Virginia,2018,Care_Seeking,64.0
+Wisconsin,2018,Care_Seeking,58.75
+Wyoming,2018,Care_Seeking,65.75
+Alabama,2018,Economic_Hardship,65.75
+Alaska,2018,Economic_Hardship,58.25
+Arizona,2018,Economic_Hardship,59.25
+Arkansas,2018,Economic_Hardship,54.75
+California,2018,Economic_Hardship,41.25
+Colorado,2018,Economic_Hardship,56.5
+Connecticut,2018,Economic_Hardship,53.5
+Delaware,2018,Economic_Hardship,58.25
+District of Columbia,2018,Economic_Hardship,65.25
+Florida,2018,Economic_Hardship,54.75
+Georgia,2018,Economic_Hardship,59.0
+Hawaii,2018,Economic_Hardship,49.0
+Idaho,2018,Economic_Hardship,57.0
+Illinois,2018,Economic_Hardship,54.0
+Indiana,2018,Economic_Hardship,64.0
+Iowa,2018,Economic_Hardship,56.25
+Kansas,2018,Economic_Hardship,58.5
+Kentucky,2018,Economic_Hardship,62.0
+Louisiana,2018,Economic_Hardship,65.0
+Maine,2018,Economic_Hardship,41.75
+Maryland,2018,Economic_Hardship,56.25
+Massachusetts,2018,Economic_Hardship,47.5
+Michigan,2018,Economic_Hardship,51.5
+Minnesota,2018,Economic_Hardship,51.5
+Mississippi,2018,Economic_Hardship,55.75
+Missouri,2018,Economic_Hardship,67.25
+Montana,2018,Economic_Hardship,62.25
+Nebraska,2018,Economic_Hardship,48.25
+Nevada,2018,Economic_Hardship,68.25
+New Hampshire,2018,Economic_Hardship,44.75
+New Jersey,2018,Economic_Hardship,56.75
+New Mexico,2018,Economic_Hardship,48.75
+New York,2018,Economic_Hardship,56.25
+North Carolina,2018,Economic_Hardship,49.25
+North Dakota,2018,Economic_Hardship,46.75
+Ohio,2018,Economic_Hardship,61.5
+Oklahoma,2018,Economic_Hardship,63.5
+Oregon,2018,Economic_Hardship,74.5
+Pennsylvania,2018,Economic_Hardship,57.25
+Rhode Island,2018,Economic_Hardship,49.75
+South Carolina,2018,Economic_Hardship,50.75
+South Dakota,2018,Economic_Hardship,43.75
+Tennessee,2018,Economic_Hardship,57.75
+Texas,2018,Economic_Hardship,48.0
+Utah,2018,Economic_Hardship,50.25
+Vermont,2018,Economic_Hardship,50.0
+Virginia,2018,Economic_Hardship,53.25
+Washington,2018,Economic_Hardship,58.75
+West Virginia,2018,Economic_Hardship,53.25
+Wisconsin,2018,Economic_Hardship,60.0
+Wyoming,2018,Economic_Hardship,55.5
+Alabama,2018,Psychological_Distress,78.0
+Alaska,2018,Psychological_Distress,74.75
+Arizona,2018,Psychological_Distress,67.75
+Arkansas,2018,Psychological_Distress,79.75
+California,2018,Psychological_Distress,73.5
+Colorado,2018,Psychological_Distress,75.25
+Connecticut,2018,Psychological_Distress,77.5
+Delaware,2018,Psychological_Distress,72.5
+District of Columbia,2018,Psychological_Distress,72.0
+Florida,2018,Psychological_Distress,64.75
+Georgia,2018,Psychological_Distress,69.75
+Hawaii,2018,Psychological_Distress,63.0
+Idaho,2018,Psychological_Distress,78.75
+Illinois,2018,Psychological_Distress,76.75
+Indiana,2018,Psychological_Distress,77.75
+Iowa,2018,Psychological_Distress,81.25
+Kansas,2018,Psychological_Distress,86.75
+Kentucky,2018,Psychological_Distress,80.0
+Louisiana,2018,Psychological_Distress,73.5
+Maine,2018,Psychological_Distress,86.0
+Maryland,2018,Psychological_Distress,78.0
+Massachusetts,2018,Psychological_Distress,77.75
+Michigan,2018,Psychological_Distress,80.25
+Minnesota,2018,Psychological_Distress,86.5
+Mississippi,2018,Psychological_Distress,79.5
+Missouri,2018,Psychological_Distress,77.25
+Montana,2018,Psychological_Distress,79.75
+Nebraska,2018,Psychological_Distress,74.5
+Nevada,2018,Psychological_Distress,68.75
+New Hampshire,2018,Psychological_Distress,89.0
+New Jersey,2018,Psychological_Distress,71.0
+New Mexico,2018,Psychological_Distress,70.0
+New York,2018,Psychological_Distress,78.0
+North Carolina,2018,Psychological_Distress,74.5
+North Dakota,2018,Psychological_Distress,73.25
+Ohio,2018,Psychological_Distress,78.25
+Oklahoma,2018,Psychological_Distress,78.25
+Oregon,2018,Psychological_Distress,83.75
+Pennsylvania,2018,Psychological_Distress,82.0
+Rhode Island,2018,Psychological_Distress,81.5
+South Carolina,2018,Psychological_Distress,77.0
+South Dakota,2018,Psychological_Distress,79.0
+Tennessee,2018,Psychological_Distress,74.5
+Texas,2018,Psychological_Distress,65.75
+Utah,2018,Psychological_Distress,79.5
+Vermont,2018,Psychological_Distress,87.75
+Virginia,2018,Psychological_Distress,75.5
+Washington,2018,Psychological_Distress,77.75
+West Virginia,2018,Psychological_Distress,85.25
+Wisconsin,2018,Psychological_Distress,79.5
+Wyoming,2018,Psychological_Distress,64.5
+Alabama,2018,Substance_Use,63.5
+Alaska,2018,Substance_Use,63.5
+Arizona,2018,Substance_Use,65.0
+Arkansas,2018,Substance_Use,70.75
+California,2018,Substance_Use,49.25
+Colorado,2018,Substance_Use,61.0
+Connecticut,2018,Substance_Use,64.75
+Delaware,2018,Substance_Use,71.0
+District of Columbia,2018,Substance_Use,65.75
+Florida,2018,Substance_Use,57.5
+Georgia,2018,Substance_Use,52.75
+Hawaii,2018,Substance_Use,44.25
+Idaho,2018,Substance_Use,55.0
+Illinois,2018,Substance_Use,54.0
+Indiana,2018,Substance_Use,66.5
+Iowa,2018,Substance_Use,51.25
+Kansas,2018,Substance_Use,62.25
+Kentucky,2018,Substance_Use,68.75
+Louisiana,2018,Substance_Use,58.25
+Maine,2018,Substance_Use,68.5
+Maryland,2018,Substance_Use,67.0
+Massachusetts,2018,Substance_Use,61.25
+Michigan,2018,Substance_Use,59.25
+Minnesota,2018,Substance_Use,59.5
+Mississippi,2018,Substance_Use,63.25
+Missouri,2018,Substance_Use,61.0
+Montana,2018,Substance_Use,59.0
+Nebraska,2018,Substance_Use,51.5
+Nevada,2018,Substance_Use,58.0
+New Hampshire,2018,Substance_Use,70.0
+New Jersey,2018,Substance_Use,61.25
+New Mexico,2018,Substance_Use,62.5
+New York,2018,Substance_Use,64.5
+North Carolina,2018,Substance_Use,57.5
+North Dakota,2018,Substance_Use,62.25
+Ohio,2018,Substance_Use,63.75
+Oklahoma,2018,Substance_Use,61.0
+Oregon,2018,Substance_Use,69.25
+Pennsylvania,2018,Substance_Use,69.75
+Rhode Island,2018,Substance_Use,66.0
+South Carolina,2018,Substance_Use,62.5
+South Dakota,2018,Substance_Use,57.75
+Tennessee,2018,Substance_Use,66.25
+Texas,2018,Substance_Use,49.75
+Utah,2018,Substance_Use,57.0
+Vermont,2018,Substance_Use,61.25
+Virginia,2018,Substance_Use,64.0
+Washington,2018,Substance_Use,59.5
+West Virginia,2018,Substance_Use,84.5
+Wisconsin,2018,Substance_Use,57.5
+Wyoming,2018,Substance_Use,53.0
+Alabama,2019,Care_Seeking,69.75
+Alaska,2019,Care_Seeking,64.5
+Arizona,2019,Care_Seeking,65.5
+Arkansas,2019,Care_Seeking,71.25
+California,2019,Care_Seeking,65.5
+Colorado,2019,Care_Seeking,64.25
+Connecticut,2019,Care_Seeking,76.0
+Delaware,2019,Care_Seeking,66.25
+District of Columbia,2019,Care_Seeking,69.75
+Florida,2019,Care_Seeking,64.25
+Georgia,2019,Care_Seeking,65.75
+Hawaii,2019,Care_Seeking,59.75
+Idaho,2019,Care_Seeking,62.0
+Illinois,2019,Care_Seeking,61.0
+Indiana,2019,Care_Seeking,60.25
+Iowa,2019,Care_Seeking,61.0
+Kansas,2019,Care_Seeking,67.5
+Kentucky,2019,Care_Seeking,63.75
+Louisiana,2019,Care_Seeking,79.25
+Maine,2019,Care_Seeking,60.5
+Maryland,2019,Care_Seeking,73.0
+Massachusetts,2019,Care_Seeking,66.25
+Michigan,2019,Care_Seeking,65.75
+Minnesota,2019,Care_Seeking,77.5
+Mississippi,2019,Care_Seeking,63.75
+Missouri,2019,Care_Seeking,65.5
+Montana,2019,Care_Seeking,70.5
+Nebraska,2019,Care_Seeking,64.25
+Nevada,2019,Care_Seeking,59.25
+New Hampshire,2019,Care_Seeking,59.75
+New Jersey,2019,Care_Seeking,76.5
+New Mexico,2019,Care_Seeking,61.75
+New York,2019,Care_Seeking,81.75
+North Carolina,2019,Care_Seeking,62.25
+North Dakota,2019,Care_Seeking,61.75
+Ohio,2019,Care_Seeking,59.5
+Oklahoma,2019,Care_Seeking,61.5
+Oregon,2019,Care_Seeking,67.25
+Pennsylvania,2019,Care_Seeking,70.75
+Rhode Island,2019,Care_Seeking,64.75
+South Carolina,2019,Care_Seeking,64.0
+South Dakota,2019,Care_Seeking,51.75
+Tennessee,2019,Care_Seeking,66.0
+Texas,2019,Care_Seeking,61.75
+Utah,2019,Care_Seeking,68.25
+Vermont,2019,Care_Seeking,64.25
+Virginia,2019,Care_Seeking,71.5
+Washington,2019,Care_Seeking,65.25
+West Virginia,2019,Care_Seeking,64.25
+Wisconsin,2019,Care_Seeking,61.25
+Wyoming,2019,Care_Seeking,67.75
+Alabama,2019,Economic_Hardship,65.75
+Alaska,2019,Economic_Hardship,55.25
+Arizona,2019,Economic_Hardship,57.75
+Arkansas,2019,Economic_Hardship,53.5
+California,2019,Economic_Hardship,44.0
+Colorado,2019,Economic_Hardship,56.25
+Connecticut,2019,Economic_Hardship,52.75
+Delaware,2019,Economic_Hardship,60.5
+District of Columbia,2019,Economic_Hardship,67.0
+Florida,2019,Economic_Hardship,53.5
+Georgia,2019,Economic_Hardship,56.25
+Hawaii,2019,Economic_Hardship,50.5
+Idaho,2019,Economic_Hardship,58.0
+Illinois,2019,Economic_Hardship,51.75
+Indiana,2019,Economic_Hardship,66.0
+Iowa,2019,Economic_Hardship,59.5
+Kansas,2019,Economic_Hardship,57.25
+Kentucky,2019,Economic_Hardship,64.0
+Louisiana,2019,Economic_Hardship,66.25
+Maine,2019,Economic_Hardship,42.75
+Maryland,2019,Economic_Hardship,55.5
+Massachusetts,2019,Economic_Hardship,47.75
+Michigan,2019,Economic_Hardship,52.0
+Minnesota,2019,Economic_Hardship,54.0
+Mississippi,2019,Economic_Hardship,59.25
+Missouri,2019,Economic_Hardship,64.25
+Montana,2019,Economic_Hardship,61.75
+Nebraska,2019,Economic_Hardship,48.25
+Nevada,2019,Economic_Hardship,68.75
+New Hampshire,2019,Economic_Hardship,42.25
+New Jersey,2019,Economic_Hardship,54.5
+New Mexico,2019,Economic_Hardship,49.75
+New York,2019,Economic_Hardship,54.5
+North Carolina,2019,Economic_Hardship,47.0
+North Dakota,2019,Economic_Hardship,45.75
+Ohio,2019,Economic_Hardship,64.5
+Oklahoma,2019,Economic_Hardship,63.5
+Oregon,2019,Economic_Hardship,67.5
+Pennsylvania,2019,Economic_Hardship,58.25
+Rhode Island,2019,Economic_Hardship,49.0
+South Carolina,2019,Economic_Hardship,49.25
+South Dakota,2019,Economic_Hardship,46.25
+Tennessee,2019,Economic_Hardship,58.0
+Texas,2019,Economic_Hardship,47.75
+Utah,2019,Economic_Hardship,54.25
+Vermont,2019,Economic_Hardship,50.5
+Virginia,2019,Economic_Hardship,50.25
+Washington,2019,Economic_Hardship,60.75
+West Virginia,2019,Economic_Hardship,55.25
+Wisconsin,2019,Economic_Hardship,63.25
+Wyoming,2019,Economic_Hardship,59.0
+Alabama,2019,Psychological_Distress,81.5
+Alaska,2019,Psychological_Distress,72.75
+Arizona,2019,Psychological_Distress,70.75
+Arkansas,2019,Psychological_Distress,81.0
+California,2019,Psychological_Distress,74.25
+Colorado,2019,Psychological_Distress,75.0
+Connecticut,2019,Psychological_Distress,78.5
+Delaware,2019,Psychological_Distress,76.0
+District of Columbia,2019,Psychological_Distress,70.25
+Florida,2019,Psychological_Distress,65.25
+Georgia,2019,Psychological_Distress,72.75
+Hawaii,2019,Psychological_Distress,63.25
+Idaho,2019,Psychological_Distress,80.25
+Illinois,2019,Psychological_Distress,77.25
+Indiana,2019,Psychological_Distress,81.25
+Iowa,2019,Psychological_Distress,83.0
+Kansas,2019,Psychological_Distress,87.0
+Kentucky,2019,Psychological_Distress,80.75
+Louisiana,2019,Psychological_Distress,73.75
+Maine,2019,Psychological_Distress,87.25
+Maryland,2019,Psychological_Distress,74.25
+Massachusetts,2019,Psychological_Distress,82.75
+Michigan,2019,Psychological_Distress,83.0
+Minnesota,2019,Psychological_Distress,88.25
+Mississippi,2019,Psychological_Distress,84.0
+Missouri,2019,Psychological_Distress,75.5
+Montana,2019,Psychological_Distress,82.0
+Nebraska,2019,Psychological_Distress,78.25
+Nevada,2019,Psychological_Distress,70.75
+New Hampshire,2019,Psychological_Distress,85.0
+New Jersey,2019,Psychological_Distress,74.5
+New Mexico,2019,Psychological_Distress,69.5
+New York,2019,Psychological_Distress,77.0
+North Carolina,2019,Psychological_Distress,78.75
+North Dakota,2019,Psychological_Distress,76.25
+Ohio,2019,Psychological_Distress,82.0
+Oklahoma,2019,Psychological_Distress,81.75
+Oregon,2019,Psychological_Distress,77.5
+Pennsylvania,2019,Psychological_Distress,82.0
+Rhode Island,2019,Psychological_Distress,84.75
+South Carolina,2019,Psychological_Distress,79.0
+South Dakota,2019,Psychological_Distress,73.5
+Tennessee,2019,Psychological_Distress,79.5
+Texas,2019,Psychological_Distress,70.0
+Utah,2019,Psychological_Distress,84.25
+Vermont,2019,Psychological_Distress,82.5
+Virginia,2019,Psychological_Distress,79.0
+Washington,2019,Psychological_Distress,78.75
+West Virginia,2019,Psychological_Distress,88.25
+Wisconsin,2019,Psychological_Distress,79.25
+Wyoming,2019,Psychological_Distress,66.0
+Alabama,2019,Substance_Use,64.75
+Alaska,2019,Substance_Use,64.75
+Arizona,2019,Substance_Use,61.75
+Arkansas,2019,Substance_Use,63.5
+California,2019,Substance_Use,49.25
+Colorado,2019,Substance_Use,59.25
+Connecticut,2019,Substance_Use,61.75
+Delaware,2019,Substance_Use,62.5
+District of Columbia,2019,Substance_Use,67.25
+Florida,2019,Substance_Use,54.75
+Georgia,2019,Substance_Use,56.5
+Hawaii,2019,Substance_Use,45.25
+Idaho,2019,Substance_Use,56.0
+Illinois,2019,Substance_Use,53.25
+Indiana,2019,Substance_Use,64.25
+Iowa,2019,Substance_Use,49.0
+Kansas,2019,Substance_Use,60.25
+Kentucky,2019,Substance_Use,66.5
+Louisiana,2019,Substance_Use,62.5
+Maine,2019,Substance_Use,68.5
+Maryland,2019,Substance_Use,64.75
+Massachusetts,2019,Substance_Use,62.75
+Michigan,2019,Substance_Use,60.0
+Minnesota,2019,Substance_Use,56.75
+Mississippi,2019,Substance_Use,65.0
+Missouri,2019,Substance_Use,59.25
+Montana,2019,Substance_Use,50.5
+Nebraska,2019,Substance_Use,47.75
+Nevada,2019,Substance_Use,57.0
+New Hampshire,2019,Substance_Use,61.75
+New Jersey,2019,Substance_Use,60.5
+New Mexico,2019,Substance_Use,62.75
+New York,2019,Substance_Use,54.25
+North Carolina,2019,Substance_Use,57.0
+North Dakota,2019,Substance_Use,58.25
+Ohio,2019,Substance_Use,63.25
+Oklahoma,2019,Substance_Use,60.5
+Oregon,2019,Substance_Use,60.0
+Pennsylvania,2019,Substance_Use,65.75
+Rhode Island,2019,Substance_Use,60.75
+South Carolina,2019,Substance_Use,64.25
+South Dakota,2019,Substance_Use,65.25
+Tennessee,2019,Substance_Use,64.5
+Texas,2019,Substance_Use,47.25
+Utah,2019,Substance_Use,58.0
+Vermont,2019,Substance_Use,70.0
+Virginia,2019,Substance_Use,60.5
+Washington,2019,Substance_Use,57.25
+West Virginia,2019,Substance_Use,83.5
+Wisconsin,2019,Substance_Use,54.5
+Wyoming,2019,Substance_Use,41.75
+Alabama,2020,Care_Seeking,69.25
+Alaska,2020,Care_Seeking,68.0
+Arizona,2020,Care_Seeking,67.25
+Arkansas,2020,Care_Seeking,68.25
+California,2020,Care_Seeking,65.5
+Colorado,2020,Care_Seeking,65.25
+Connecticut,2020,Care_Seeking,71.75
+Delaware,2020,Care_Seeking,68.0
+District of Columbia,2020,Care_Seeking,72.25
+Florida,2020,Care_Seeking,69.75
+Georgia,2020,Care_Seeking,64.75
+Hawaii,2020,Care_Seeking,61.75
+Idaho,2020,Care_Seeking,64.0
+Illinois,2020,Care_Seeking,63.25
+Indiana,2020,Care_Seeking,62.25
+Iowa,2020,Care_Seeking,63.25
+Kansas,2020,Care_Seeking,69.0
+Kentucky,2020,Care_Seeking,65.0
+Louisiana,2020,Care_Seeking,77.75
+Maine,2020,Care_Seeking,60.25
+Maryland,2020,Care_Seeking,72.75
+Massachusetts,2020,Care_Seeking,65.75
+Michigan,2020,Care_Seeking,58.5
+Minnesota,2020,Care_Seeking,76.5
+Mississippi,2020,Care_Seeking,65.5
+Missouri,2020,Care_Seeking,65.25
+Montana,2020,Care_Seeking,71.75
+Nebraska,2020,Care_Seeking,64.0
+Nevada,2020,Care_Seeking,70.25
+New Hampshire,2020,Care_Seeking,60.5
+New Jersey,2020,Care_Seeking,76.75
+New Mexico,2020,Care_Seeking,59.75
+New York,2020,Care_Seeking,76.5
+North Carolina,2020,Care_Seeking,65.75
+North Dakota,2020,Care_Seeking,63.25
+Ohio,2020,Care_Seeking,57.0
+Oklahoma,2020,Care_Seeking,64.25
+Oregon,2020,Care_Seeking,66.5
+Pennsylvania,2020,Care_Seeking,67.75
+Rhode Island,2020,Care_Seeking,67.5
+South Carolina,2020,Care_Seeking,67.75
+South Dakota,2020,Care_Seeking,57.75
+Tennessee,2020,Care_Seeking,67.5
+Texas,2020,Care_Seeking,63.5
+Utah,2020,Care_Seeking,71.75
+Vermont,2020,Care_Seeking,54.5
+Virginia,2020,Care_Seeking,69.75
+Washington,2020,Care_Seeking,64.5
+West Virginia,2020,Care_Seeking,65.75
+Wisconsin,2020,Care_Seeking,57.5
+Wyoming,2020,Care_Seeking,79.0
+Alabama,2020,Economic_Hardship,62.5
+Alaska,2020,Economic_Hardship,46.5
+Arizona,2020,Economic_Hardship,50.5
+Arkansas,2020,Economic_Hardship,46.5
+California,2020,Economic_Hardship,36.5
+Colorado,2020,Economic_Hardship,48.5
+Connecticut,2020,Economic_Hardship,43.5
+Delaware,2020,Economic_Hardship,48.25
+District of Columbia,2020,Economic_Hardship,63.5
+Florida,2020,Economic_Hardship,57.0
+Georgia,2020,Economic_Hardship,48.5
+Hawaii,2020,Economic_Hardship,52.25
+Idaho,2020,Economic_Hardship,45.25
+Illinois,2020,Economic_Hardship,42.25
+Indiana,2020,Economic_Hardship,57.75
+Iowa,2020,Economic_Hardship,41.75
+Kansas,2020,Economic_Hardship,51.5
+Kentucky,2020,Economic_Hardship,60.25
+Louisiana,2020,Economic_Hardship,66.25
+Maine,2020,Economic_Hardship,36.5
+Maryland,2020,Economic_Hardship,53.5
+Massachusetts,2020,Economic_Hardship,40.25
+Michigan,2020,Economic_Hardship,57.0
+Minnesota,2020,Economic_Hardship,40.5
+Mississippi,2020,Economic_Hardship,59.5
+Missouri,2020,Economic_Hardship,57.25
+Montana,2020,Economic_Hardship,44.0
+Nebraska,2020,Economic_Hardship,40.5
+Nevada,2020,Economic_Hardship,65.5
+New Hampshire,2020,Economic_Hardship,39.75
+New Jersey,2020,Economic_Hardship,51.0
+New Mexico,2020,Economic_Hardship,46.25
+New York,2020,Economic_Hardship,47.25
+North Carolina,2020,Economic_Hardship,48.25
+North Dakota,2020,Economic_Hardship,43.25
+Ohio,2020,Economic_Hardship,54.25
+Oklahoma,2020,Economic_Hardship,57.25
+Oregon,2020,Economic_Hardship,57.5
+Pennsylvania,2020,Economic_Hardship,45.5
+Rhode Island,2020,Economic_Hardship,41.0
+South Carolina,2020,Economic_Hardship,49.75
+South Dakota,2020,Economic_Hardship,37.75
+Tennessee,2020,Economic_Hardship,53.25
+Texas,2020,Economic_Hardship,45.0
+Utah,2020,Economic_Hardship,45.25
+Vermont,2020,Economic_Hardship,41.5
+Virginia,2020,Economic_Hardship,44.25
+Washington,2020,Economic_Hardship,54.5
+West Virginia,2020,Economic_Hardship,46.0
+Wisconsin,2020,Economic_Hardship,46.75
+Wyoming,2020,Economic_Hardship,50.25
+Alabama,2020,Psychological_Distress,75.5
+Alaska,2020,Psychological_Distress,74.25
+Arizona,2020,Psychological_Distress,75.75
+Arkansas,2020,Psychological_Distress,81.0
+California,2020,Psychological_Distress,79.25
+Colorado,2020,Psychological_Distress,79.5
+Connecticut,2020,Psychological_Distress,83.75
+Delaware,2020,Psychological_Distress,79.5
+District of Columbia,2020,Psychological_Distress,76.5
+Florida,2020,Psychological_Distress,72.0
+Georgia,2020,Psychological_Distress,74.75
+Hawaii,2020,Psychological_Distress,70.0
+Idaho,2020,Psychological_Distress,84.75
+Illinois,2020,Psychological_Distress,81.25
+Indiana,2020,Psychological_Distress,85.0
+Iowa,2020,Psychological_Distress,80.75
+Kansas,2020,Psychological_Distress,88.25
+Kentucky,2020,Psychological_Distress,80.75
+Louisiana,2020,Psychological_Distress,76.0
+Maine,2020,Psychological_Distress,85.0
+Maryland,2020,Psychological_Distress,84.25
+Massachusetts,2020,Psychological_Distress,87.0
+Michigan,2020,Psychological_Distress,81.25
+Minnesota,2020,Psychological_Distress,87.5
+Mississippi,2020,Psychological_Distress,82.25
+Missouri,2020,Psychological_Distress,78.25
+Montana,2020,Psychological_Distress,83.75
+Nebraska,2020,Psychological_Distress,79.75
+Nevada,2020,Psychological_Distress,74.75
+New Hampshire,2020,Psychological_Distress,91.25
+New Jersey,2020,Psychological_Distress,76.25
+New Mexico,2020,Psychological_Distress,74.0
+New York,2020,Psychological_Distress,80.0
+North Carolina,2020,Psychological_Distress,81.0
+North Dakota,2020,Psychological_Distress,79.75
+Ohio,2020,Psychological_Distress,81.5
+Oklahoma,2020,Psychological_Distress,83.25
+Oregon,2020,Psychological_Distress,80.0
+Pennsylvania,2020,Psychological_Distress,82.5
+Rhode Island,2020,Psychological_Distress,83.5
+South Carolina,2020,Psychological_Distress,78.5
+South Dakota,2020,Psychological_Distress,76.25
+Tennessee,2020,Psychological_Distress,82.5
+Texas,2020,Psychological_Distress,73.75
+Utah,2020,Psychological_Distress,88.5
+Vermont,2020,Psychological_Distress,83.75
+Virginia,2020,Psychological_Distress,78.5
+Washington,2020,Psychological_Distress,79.75
+West Virginia,2020,Psychological_Distress,90.0
+Wisconsin,2020,Psychological_Distress,80.5
+Wyoming,2020,Psychological_Distress,70.75
+Alabama,2020,Substance_Use,69.5
+Alaska,2020,Substance_Use,58.0
+Arizona,2020,Substance_Use,69.5
+Arkansas,2020,Substance_Use,71.0
+California,2020,Substance_Use,54.25
+Colorado,2020,Substance_Use,56.75
+Connecticut,2020,Substance_Use,72.5
+Delaware,2020,Substance_Use,73.25
+District of Columbia,2020,Substance_Use,67.5
+Florida,2020,Substance_Use,67.0
+Georgia,2020,Substance_Use,60.0
+Hawaii,2020,Substance_Use,57.5
+Idaho,2020,Substance_Use,62.5
+Illinois,2020,Substance_Use,56.25
+Indiana,2020,Substance_Use,68.75
+Iowa,2020,Substance_Use,54.0
+Kansas,2020,Substance_Use,65.75
+Kentucky,2020,Substance_Use,76.5
+Louisiana,2020,Substance_Use,71.75
+Maine,2020,Substance_Use,60.75
+Maryland,2020,Substance_Use,69.5
+Massachusetts,2020,Substance_Use,64.5
+Michigan,2020,Substance_Use,62.0
+Minnesota,2020,Substance_Use,55.75
+Mississippi,2020,Substance_Use,74.0
+Missouri,2020,Substance_Use,64.0
+Montana,2020,Substance_Use,56.0
+Nebraska,2020,Substance_Use,56.75
+Nevada,2020,Substance_Use,67.0
+New Hampshire,2020,Substance_Use,69.0
+New Jersey,2020,Substance_Use,62.25
+New Mexico,2020,Substance_Use,70.0
+New York,2020,Substance_Use,60.5
+North Carolina,2020,Substance_Use,65.0
+North Dakota,2020,Substance_Use,71.75
+Ohio,2020,Substance_Use,66.75
+Oklahoma,2020,Substance_Use,64.75
+Oregon,2020,Substance_Use,59.75
+Pennsylvania,2020,Substance_Use,69.25
+Rhode Island,2020,Substance_Use,65.5
+South Carolina,2020,Substance_Use,75.75
+South Dakota,2020,Substance_Use,38.0
+Tennessee,2020,Substance_Use,71.25
+Texas,2020,Substance_Use,53.0
+Utah,2020,Substance_Use,59.0
+Vermont,2020,Substance_Use,63.25
+Virginia,2020,Substance_Use,64.25
+Washington,2020,Substance_Use,57.75
+West Virginia,2020,Substance_Use,88.5
+Wisconsin,2020,Substance_Use,59.25
+Wyoming,2020,Substance_Use,46.75
+Alabama,2021,Care_Seeking,65.75
+Alaska,2021,Care_Seeking,58.75
+Arizona,2021,Care_Seeking,68.5
+Arkansas,2021,Care_Seeking,62.25
+California,2021,Care_Seeking,62.75
+Colorado,2021,Care_Seeking,66.75
+Connecticut,2021,Care_Seeking,73.5
+Delaware,2021,Care_Seeking,67.5
+District of Columbia,2021,Care_Seeking,65.25
+Florida,2021,Care_Seeking,65.25
+Georgia,2021,Care_Seeking,63.25
+Hawaii,2021,Care_Seeking,58.5
+Idaho,2021,Care_Seeking,64.75
+Illinois,2021,Care_Seeking,61.0
+Indiana,2021,Care_Seeking,58.75
+Iowa,2021,Care_Seeking,64.0
+Kansas,2021,Care_Seeking,66.5
+Kentucky,2021,Care_Seeking,66.0
+Louisiana,2021,Care_Seeking,74.5
+Maine,2021,Care_Seeking,62.25
+Maryland,2021,Care_Seeking,74.25
+Massachusetts,2021,Care_Seeking,68.0
+Michigan,2021,Care_Seeking,61.75
+Minnesota,2021,Care_Seeking,69.0
+Mississippi,2021,Care_Seeking,60.5
+Missouri,2021,Care_Seeking,63.5
+Montana,2021,Care_Seeking,66.5
+Nebraska,2021,Care_Seeking,63.5
+Nevada,2021,Care_Seeking,62.25
+New Hampshire,2021,Care_Seeking,57.0
+New Jersey,2021,Care_Seeking,72.0
+New Mexico,2021,Care_Seeking,79.5
+New York,2021,Care_Seeking,73.0
+North Carolina,2021,Care_Seeking,62.25
+North Dakota,2021,Care_Seeking,59.75
+Ohio,2021,Care_Seeking,59.25
+Oklahoma,2021,Care_Seeking,63.5
+Oregon,2021,Care_Seeking,61.75
+Pennsylvania,2021,Care_Seeking,68.0
+Rhode Island,2021,Care_Seeking,69.25
+South Carolina,2021,Care_Seeking,65.75
+South Dakota,2021,Care_Seeking,52.5
+Tennessee,2021,Care_Seeking,62.0
+Texas,2021,Care_Seeking,65.0
+Utah,2021,Care_Seeking,68.25
+Vermont,2021,Care_Seeking,63.0
+Virginia,2021,Care_Seeking,71.25
+Washington,2021,Care_Seeking,61.0
+West Virginia,2021,Care_Seeking,67.75
+Wisconsin,2021,Care_Seeking,56.25
+Wyoming,2021,Care_Seeking,70.25
+Alabama,2021,Economic_Hardship,66.0
+Alaska,2021,Economic_Hardship,47.25
+Arizona,2021,Economic_Hardship,55.25
+Arkansas,2021,Economic_Hardship,48.75
+California,2021,Economic_Hardship,36.0
+Colorado,2021,Economic_Hardship,56.0
+Connecticut,2021,Economic_Hardship,48.75
+Delaware,2021,Economic_Hardship,54.25
+District of Columbia,2021,Economic_Hardship,67.0
+Florida,2021,Economic_Hardship,52.5
+Georgia,2021,Economic_Hardship,53.25
+Hawaii,2021,Economic_Hardship,46.25
+Idaho,2021,Economic_Hardship,49.0
+Illinois,2021,Economic_Hardship,44.75
+Indiana,2021,Economic_Hardship,60.75
+Iowa,2021,Economic_Hardship,44.0
+Kansas,2021,Economic_Hardship,53.5
+Kentucky,2021,Economic_Hardship,61.75
+Louisiana,2021,Economic_Hardship,69.75
+Maine,2021,Economic_Hardship,38.5
+Maryland,2021,Economic_Hardship,56.5
+Massachusetts,2021,Economic_Hardship,39.25
+Michigan,2021,Economic_Hardship,58.5
+Minnesota,2021,Economic_Hardship,44.0
+Mississippi,2021,Economic_Hardship,58.0
+Missouri,2021,Economic_Hardship,60.5
+Montana,2021,Economic_Hardship,46.0
+Nebraska,2021,Economic_Hardship,39.5
+Nevada,2021,Economic_Hardship,65.75
+New Hampshire,2021,Economic_Hardship,40.25
+New Jersey,2021,Economic_Hardship,54.75
+New Mexico,2021,Economic_Hardship,55.75
+New York,2021,Economic_Hardship,50.75
+North Carolina,2021,Economic_Hardship,47.75
+North Dakota,2021,Economic_Hardship,44.25
+Ohio,2021,Economic_Hardship,59.5
+Oklahoma,2021,Economic_Hardship,60.0
+Oregon,2021,Economic_Hardship,60.5
+Pennsylvania,2021,Economic_Hardship,55.0
+Rhode Island,2021,Economic_Hardship,47.5
+South Carolina,2021,Economic_Hardship,51.0
+South Dakota,2021,Economic_Hardship,40.5
+Tennessee,2021,Economic_Hardship,51.25
+Texas,2021,Economic_Hardship,46.75
+Utah,2021,Economic_Hardship,45.0
+Vermont,2021,Economic_Hardship,47.5
+Virginia,2021,Economic_Hardship,47.0
+Washington,2021,Economic_Hardship,55.25
+West Virginia,2021,Economic_Hardship,46.5
+Wisconsin,2021,Economic_Hardship,47.5
+Wyoming,2021,Economic_Hardship,51.25
+Alabama,2021,Psychological_Distress,77.75
+Alaska,2021,Psychological_Distress,72.25
+Arizona,2021,Psychological_Distress,75.25
+Arkansas,2021,Psychological_Distress,79.75
+California,2021,Psychological_Distress,77.5
+Colorado,2021,Psychological_Distress,79.0
+Connecticut,2021,Psychological_Distress,76.5
+Delaware,2021,Psychological_Distress,75.5
+District of Columbia,2021,Psychological_Distress,77.25
+Florida,2021,Psychological_Distress,70.0
+Georgia,2021,Psychological_Distress,72.0
+Hawaii,2021,Psychological_Distress,67.5
+Idaho,2021,Psychological_Distress,83.0
+Illinois,2021,Psychological_Distress,76.75
+Indiana,2021,Psychological_Distress,81.5
+Iowa,2021,Psychological_Distress,81.75
+Kansas,2021,Psychological_Distress,86.75
+Kentucky,2021,Psychological_Distress,79.0
+Louisiana,2021,Psychological_Distress,75.25
+Maine,2021,Psychological_Distress,83.5
+Maryland,2021,Psychological_Distress,81.0
+Massachusetts,2021,Psychological_Distress,81.0
+Michigan,2021,Psychological_Distress,80.25
+Minnesota,2021,Psychological_Distress,84.5
+Mississippi,2021,Psychological_Distress,82.0
+Missouri,2021,Psychological_Distress,75.75
+Montana,2021,Psychological_Distress,80.25
+Nebraska,2021,Psychological_Distress,76.25
+Nevada,2021,Psychological_Distress,70.75
+New Hampshire,2021,Psychological_Distress,91.5
+New Jersey,2021,Psychological_Distress,72.0
+New Mexico,2021,Psychological_Distress,72.5
+New York,2021,Psychological_Distress,69.0
+North Carolina,2021,Psychological_Distress,81.5
+North Dakota,2021,Psychological_Distress,78.25
+Ohio,2021,Psychological_Distress,77.25
+Oklahoma,2021,Psychological_Distress,82.5
+Oregon,2021,Psychological_Distress,78.25
+Pennsylvania,2021,Psychological_Distress,83.75
+Rhode Island,2021,Psychological_Distress,80.25
+South Carolina,2021,Psychological_Distress,77.0
+South Dakota,2021,Psychological_Distress,72.5
+Tennessee,2021,Psychological_Distress,81.5
+Texas,2021,Psychological_Distress,69.75
+Utah,2021,Psychological_Distress,87.5
+Vermont,2021,Psychological_Distress,87.75
+Virginia,2021,Psychological_Distress,78.75
+Washington,2021,Psychological_Distress,80.5
+West Virginia,2021,Psychological_Distress,89.5
+Wisconsin,2021,Psychological_Distress,75.0
+Wyoming,2021,Psychological_Distress,67.0
+Alabama,2021,Substance_Use,68.75
+Alaska,2021,Substance_Use,47.25
+Arizona,2021,Substance_Use,69.75
+Arkansas,2021,Substance_Use,65.5
+California,2021,Substance_Use,53.75
+Colorado,2021,Substance_Use,61.75
+Connecticut,2021,Substance_Use,66.25
+Delaware,2021,Substance_Use,77.0
+District of Columbia,2021,Substance_Use,71.0
+Florida,2021,Substance_Use,69.75
+Georgia,2021,Substance_Use,60.25
+Hawaii,2021,Substance_Use,46.0
+Idaho,2021,Substance_Use,52.75
+Illinois,2021,Substance_Use,56.5
+Indiana,2021,Substance_Use,65.0
+Iowa,2021,Substance_Use,48.75
+Kansas,2021,Substance_Use,66.5
+Kentucky,2021,Substance_Use,80.5
+Louisiana,2021,Substance_Use,64.75
+Maine,2021,Substance_Use,61.0
+Maryland,2021,Substance_Use,67.25
+Massachusetts,2021,Substance_Use,59.0
+Michigan,2021,Substance_Use,58.5
+Minnesota,2021,Substance_Use,57.25
+Mississippi,2021,Substance_Use,71.75
+Missouri,2021,Substance_Use,62.25
+Montana,2021,Substance_Use,55.75
+Nebraska,2021,Substance_Use,49.75
+Nevada,2021,Substance_Use,64.0
+New Hampshire,2021,Substance_Use,59.0
+New Jersey,2021,Substance_Use,67.25
+New Mexico,2021,Substance_Use,58.5
+New York,2021,Substance_Use,74.75
+North Carolina,2021,Substance_Use,64.75
+North Dakota,2021,Substance_Use,58.0
+Ohio,2021,Substance_Use,65.0
+Oklahoma,2021,Substance_Use,58.75
+Oregon,2021,Substance_Use,57.75
+Pennsylvania,2021,Substance_Use,70.0
+Rhode Island,2021,Substance_Use,75.0
+South Carolina,2021,Substance_Use,77.75
+South Dakota,2021,Substance_Use,69.75
+Tennessee,2021,Substance_Use,64.75
+Texas,2021,Substance_Use,54.75
+Utah,2021,Substance_Use,58.75
+Vermont,2021,Substance_Use,56.25
+Virginia,2021,Substance_Use,61.5
+Washington,2021,Substance_Use,57.5
+West Virginia,2021,Substance_Use,83.75
+Wisconsin,2021,Substance_Use,53.5
+Wyoming,2021,Substance_Use,46.5
+Alabama,2022,Care_Seeking,70.25
+Alaska,2022,Care_Seeking,60.0
+Arizona,2022,Care_Seeking,67.0
+Arkansas,2022,Care_Seeking,66.75
+California,2022,Care_Seeking,64.0
+Colorado,2022,Care_Seeking,70.25
+Connecticut,2022,Care_Seeking,74.25
+Delaware,2022,Care_Seeking,65.75
+District of Columbia,2022,Care_Seeking,74.25
+Florida,2022,Care_Seeking,64.75
+Georgia,2022,Care_Seeking,65.0
+Hawaii,2022,Care_Seeking,62.5
+Idaho,2022,Care_Seeking,64.0
+Illinois,2022,Care_Seeking,66.0
+Indiana,2022,Care_Seeking,61.25
+Iowa,2022,Care_Seeking,68.5
+Kansas,2022,Care_Seeking,66.75
+Kentucky,2022,Care_Seeking,68.5
+Louisiana,2022,Care_Seeking,76.25
+Maine,2022,Care_Seeking,61.0
+Maryland,2022,Care_Seeking,73.0
+Massachusetts,2022,Care_Seeking,67.0
+Michigan,2022,Care_Seeking,63.25
+Minnesota,2022,Care_Seeking,77.25
+Mississippi,2022,Care_Seeking,69.75
+Missouri,2022,Care_Seeking,65.5
+Montana,2022,Care_Seeking,73.0
+Nebraska,2022,Care_Seeking,66.5
+Nevada,2022,Care_Seeking,62.25
+New Hampshire,2022,Care_Seeking,62.0
+New Jersey,2022,Care_Seeking,77.25
+New Mexico,2022,Care_Seeking,61.5
+New York,2022,Care_Seeking,73.0
+North Carolina,2022,Care_Seeking,67.0
+North Dakota,2022,Care_Seeking,63.0
+Ohio,2022,Care_Seeking,60.0
+Oklahoma,2022,Care_Seeking,70.0
+Oregon,2022,Care_Seeking,68.0
+Pennsylvania,2022,Care_Seeking,71.75
+Rhode Island,2022,Care_Seeking,67.0
+South Carolina,2022,Care_Seeking,66.75
+South Dakota,2022,Care_Seeking,54.25
+Tennessee,2022,Care_Seeking,66.5
+Texas,2022,Care_Seeking,65.0
+Utah,2022,Care_Seeking,75.25
+Vermont,2022,Care_Seeking,63.25
+Virginia,2022,Care_Seeking,70.5
+Washington,2022,Care_Seeking,65.75
+West Virginia,2022,Care_Seeking,62.5
+Wisconsin,2022,Care_Seeking,62.5
+Wyoming,2022,Care_Seeking,77.5
+Alabama,2022,Economic_Hardship,70.75
+Alaska,2022,Economic_Hardship,53.0
+Arizona,2022,Economic_Hardship,56.25
+Arkansas,2022,Economic_Hardship,53.0
+California,2022,Economic_Hardship,40.5
+Colorado,2022,Economic_Hardship,61.0
+Connecticut,2022,Economic_Hardship,53.75
+Delaware,2022,Economic_Hardship,65.5
+District of Columbia,2022,Economic_Hardship,62.0
+Florida,2022,Economic_Hardship,56.25
+Georgia,2022,Economic_Hardship,63.75
+Hawaii,2022,Economic_Hardship,46.0
+Idaho,2022,Economic_Hardship,48.5
+Illinois,2022,Economic_Hardship,47.5
+Indiana,2022,Economic_Hardship,63.5
+Iowa,2022,Economic_Hardship,51.0
+Kansas,2022,Economic_Hardship,57.25
+Kentucky,2022,Economic_Hardship,61.25
+Louisiana,2022,Economic_Hardship,69.0
+Maine,2022,Economic_Hardship,40.0
+Maryland,2022,Economic_Hardship,58.25
+Massachusetts,2022,Economic_Hardship,42.75
+Michigan,2022,Economic_Hardship,61.0
+Minnesota,2022,Economic_Hardship,48.5
+Mississippi,2022,Economic_Hardship,65.0
+Missouri,2022,Economic_Hardship,62.5
+Montana,2022,Economic_Hardship,49.25
+Nebraska,2022,Economic_Hardship,42.75
+Nevada,2022,Economic_Hardship,69.5
+New Hampshire,2022,Economic_Hardship,40.5
+New Jersey,2022,Economic_Hardship,58.75
+New Mexico,2022,Economic_Hardship,57.0
+New York,2022,Economic_Hardship,55.25
+North Carolina,2022,Economic_Hardship,50.75
+North Dakota,2022,Economic_Hardship,45.0
+Ohio,2022,Economic_Hardship,63.0
+Oklahoma,2022,Economic_Hardship,68.0
+Oregon,2022,Economic_Hardship,63.75
+Pennsylvania,2022,Economic_Hardship,59.0
+Rhode Island,2022,Economic_Hardship,50.25
+South Carolina,2022,Economic_Hardship,51.5
+South Dakota,2022,Economic_Hardship,42.75
+Tennessee,2022,Economic_Hardship,57.5
+Texas,2022,Economic_Hardship,49.75
+Utah,2022,Economic_Hardship,49.25
+Vermont,2022,Economic_Hardship,43.5
+Virginia,2022,Economic_Hardship,49.25
+Washington,2022,Economic_Hardship,55.0
+West Virginia,2022,Economic_Hardship,50.75
+Wisconsin,2022,Economic_Hardship,56.75
+Wyoming,2022,Economic_Hardship,53.75
+Alabama,2022,Psychological_Distress,78.25
+Alaska,2022,Psychological_Distress,73.75
+Arizona,2022,Psychological_Distress,75.25
+Arkansas,2022,Psychological_Distress,79.0
+California,2022,Psychological_Distress,76.5
+Colorado,2022,Psychological_Distress,80.75
+Connecticut,2022,Psychological_Distress,81.25
+Delaware,2022,Psychological_Distress,80.5
+District of Columbia,2022,Psychological_Distress,77.5
+Florida,2022,Psychological_Distress,69.0
+Georgia,2022,Psychological_Distress,75.5
+Hawaii,2022,Psychological_Distress,68.75
+Idaho,2022,Psychological_Distress,80.75
+Illinois,2022,Psychological_Distress,78.5
+Indiana,2022,Psychological_Distress,81.0
+Iowa,2022,Psychological_Distress,79.75
+Kansas,2022,Psychological_Distress,85.5
+Kentucky,2022,Psychological_Distress,83.75
+Louisiana,2022,Psychological_Distress,77.75
+Maine,2022,Psychological_Distress,82.25
+Maryland,2022,Psychological_Distress,79.75
+Massachusetts,2022,Psychological_Distress,79.75
+Michigan,2022,Psychological_Distress,81.5
+Minnesota,2022,Psychological_Distress,86.25
+Mississippi,2022,Psychological_Distress,87.75
+Missouri,2022,Psychological_Distress,77.5
+Montana,2022,Psychological_Distress,77.5
+Nebraska,2022,Psychological_Distress,75.75
+Nevada,2022,Psychological_Distress,70.75
+New Hampshire,2022,Psychological_Distress,88.25
+New Jersey,2022,Psychological_Distress,75.75
+New Mexico,2022,Psychological_Distress,76.25
+New York,2022,Psychological_Distress,77.0
+North Carolina,2022,Psychological_Distress,81.25
+North Dakota,2022,Psychological_Distress,83.25
+Ohio,2022,Psychological_Distress,82.5
+Oklahoma,2022,Psychological_Distress,85.0
+Oregon,2022,Psychological_Distress,77.0
+Pennsylvania,2022,Psychological_Distress,82.75
+Rhode Island,2022,Psychological_Distress,80.75
+South Carolina,2022,Psychological_Distress,79.75
+South Dakota,2022,Psychological_Distress,77.75
+Tennessee,2022,Psychological_Distress,82.5
+Texas,2022,Psychological_Distress,73.25
+Utah,2022,Psychological_Distress,87.75
+Vermont,2022,Psychological_Distress,86.75
+Virginia,2022,Psychological_Distress,80.5
+Washington,2022,Psychological_Distress,78.5
+West Virginia,2022,Psychological_Distress,88.0
+Wisconsin,2022,Psychological_Distress,77.5
+Wyoming,2022,Psychological_Distress,70.5
+Alabama,2022,Substance_Use,72.0
+Alaska,2022,Substance_Use,48.5
+Arizona,2022,Substance_Use,75.0
+Arkansas,2022,Substance_Use,74.0
+California,2022,Substance_Use,62.5
+Colorado,2022,Substance_Use,69.75
+Connecticut,2022,Substance_Use,72.0
+Delaware,2022,Substance_Use,74.5
+District of Columbia,2022,Substance_Use,72.0
+Florida,2022,Substance_Use,72.0
+Georgia,2022,Substance_Use,66.75
+Hawaii,2022,Substance_Use,50.75
+Idaho,2022,Substance_Use,68.0
+Illinois,2022,Substance_Use,62.75
+Indiana,2022,Substance_Use,78.25
+Iowa,2022,Substance_Use,61.25
+Kansas,2022,Substance_Use,64.5
+Kentucky,2022,Substance_Use,86.25
+Louisiana,2022,Substance_Use,73.75
+Maine,2022,Substance_Use,60.0
+Maryland,2022,Substance_Use,73.5
+Massachusetts,2022,Substance_Use,69.75
+Michigan,2022,Substance_Use,64.75
+Minnesota,2022,Substance_Use,63.25
+Mississippi,2022,Substance_Use,77.5
+Missouri,2022,Substance_Use,66.5
+Montana,2022,Substance_Use,48.25
+Nebraska,2022,Substance_Use,68.5
+Nevada,2022,Substance_Use,62.5
+New Hampshire,2022,Substance_Use,71.25
+New Jersey,2022,Substance_Use,70.0
+New Mexico,2022,Substance_Use,78.5
+New York,2022,Substance_Use,70.25
+North Carolina,2022,Substance_Use,72.25
+North Dakota,2022,Substance_Use,75.0
+Ohio,2022,Substance_Use,71.25
+Oklahoma,2022,Substance_Use,74.75
+Oregon,2022,Substance_Use,66.5
+Pennsylvania,2022,Substance_Use,72.5
+Rhode Island,2022,Substance_Use,72.75
+South Carolina,2022,Substance_Use,81.75
+South Dakota,2022,Substance_Use,67.25
+Tennessee,2022,Substance_Use,74.5
+Texas,2022,Substance_Use,60.75
+Utah,2022,Substance_Use,70.5
+Vermont,2022,Substance_Use,75.25
+Virginia,2022,Substance_Use,70.75
+Washington,2022,Substance_Use,62.25
+West Virginia,2022,Substance_Use,89.25
+Wisconsin,2022,Substance_Use,67.25
+Wyoming,2022,Substance_Use,52.75
+Alabama,2023,Care_Seeking,67.0
+Alaska,2023,Care_Seeking,60.0
+Arizona,2023,Care_Seeking,68.0
+Arkansas,2023,Care_Seeking,68.5
+California,2023,Care_Seeking,64.25
+Colorado,2023,Care_Seeking,69.0
+Connecticut,2023,Care_Seeking,74.0
+Delaware,2023,Care_Seeking,70.0
+District of Columbia,2023,Care_Seeking,70.0
+Florida,2023,Care_Seeking,66.5
+Georgia,2023,Care_Seeking,66.0
+Hawaii,2023,Care_Seeking,61.75
+Idaho,2023,Care_Seeking,68.0
+Illinois,2023,Care_Seeking,66.0
+Indiana,2023,Care_Seeking,60.75
+Iowa,2023,Care_Seeking,67.25
+Kansas,2023,Care_Seeking,64.5
+Kentucky,2023,Care_Seeking,63.75
+Louisiana,2023,Care_Seeking,78.25
+Maine,2023,Care_Seeking,58.25
+Maryland,2023,Care_Seeking,73.25
+Massachusetts,2023,Care_Seeking,65.0
+Michigan,2023,Care_Seeking,67.0
+Minnesota,2023,Care_Seeking,76.75
+Mississippi,2023,Care_Seeking,68.75
+Missouri,2023,Care_Seeking,64.25
+Montana,2023,Care_Seeking,71.75
+Nebraska,2023,Care_Seeking,66.25
+Nevada,2023,Care_Seeking,59.5
+New Hampshire,2023,Care_Seeking,59.25
+New Jersey,2023,Care_Seeking,76.25
+New Mexico,2023,Care_Seeking,62.5
+New York,2023,Care_Seeking,77.5
+North Carolina,2023,Care_Seeking,67.0
+North Dakota,2023,Care_Seeking,63.5
+Ohio,2023,Care_Seeking,61.5
+Oklahoma,2023,Care_Seeking,63.75
+Oregon,2023,Care_Seeking,70.0
+Pennsylvania,2023,Care_Seeking,70.75
+Rhode Island,2023,Care_Seeking,69.5
+South Carolina,2023,Care_Seeking,69.25
+South Dakota,2023,Care_Seeking,56.75
+Tennessee,2023,Care_Seeking,64.75
+Texas,2023,Care_Seeking,64.0
+Utah,2023,Care_Seeking,74.5
+Vermont,2023,Care_Seeking,62.25
+Virginia,2023,Care_Seeking,68.25
+Washington,2023,Care_Seeking,64.25
+West Virginia,2023,Care_Seeking,66.75
+Wisconsin,2023,Care_Seeking,62.75
+Wyoming,2023,Care_Seeking,72.25
+Alabama,2023,Economic_Hardship,68.75
+Alaska,2023,Economic_Hardship,53.0
+Arizona,2023,Economic_Hardship,56.75
+Arkansas,2023,Economic_Hardship,54.75
+California,2023,Economic_Hardship,41.25
+Colorado,2023,Economic_Hardship,64.25
+Connecticut,2023,Economic_Hardship,55.25
+Delaware,2023,Economic_Hardship,60.5
+District of Columbia,2023,Economic_Hardship,63.5
+Florida,2023,Economic_Hardship,56.0
+Georgia,2023,Economic_Hardship,60.25
+Hawaii,2023,Economic_Hardship,49.0
+Idaho,2023,Economic_Hardship,53.25
+Illinois,2023,Economic_Hardship,49.25
+Indiana,2023,Economic_Hardship,62.0
+Iowa,2023,Economic_Hardship,51.5
+Kansas,2023,Economic_Hardship,56.75
+Kentucky,2023,Economic_Hardship,59.25
+Louisiana,2023,Economic_Hardship,65.75
+Maine,2023,Economic_Hardship,41.25
+Maryland,2023,Economic_Hardship,56.0
+Massachusetts,2023,Economic_Hardship,48.5
+Michigan,2023,Economic_Hardship,55.75
+Minnesota,2023,Economic_Hardship,52.5
+Mississippi,2023,Economic_Hardship,62.5
+Missouri,2023,Economic_Hardship,66.25
+Montana,2023,Economic_Hardship,53.25
+Nebraska,2023,Economic_Hardship,43.0
+Nevada,2023,Economic_Hardship,68.0
+New Hampshire,2023,Economic_Hardship,41.5
+New Jersey,2023,Economic_Hardship,60.0
+New Mexico,2023,Economic_Hardship,54.0
+New York,2023,Economic_Hardship,52.75
+North Carolina,2023,Economic_Hardship,51.25
+North Dakota,2023,Economic_Hardship,47.75
+Ohio,2023,Economic_Hardship,63.0
+Oklahoma,2023,Economic_Hardship,67.75
+Oregon,2023,Economic_Hardship,65.75
+Pennsylvania,2023,Economic_Hardship,64.0
+Rhode Island,2023,Economic_Hardship,52.75
+South Carolina,2023,Economic_Hardship,50.75
+South Dakota,2023,Economic_Hardship,42.0
+Tennessee,2023,Economic_Hardship,58.25
+Texas,2023,Economic_Hardship,48.0
+Utah,2023,Economic_Hardship,51.75
+Vermont,2023,Economic_Hardship,49.25
+Virginia,2023,Economic_Hardship,47.0
+Washington,2023,Economic_Hardship,59.25
+West Virginia,2023,Economic_Hardship,49.75
+Wisconsin,2023,Economic_Hardship,55.0
+Wyoming,2023,Economic_Hardship,51.75
+Alabama,2023,Psychological_Distress,77.0
+Alaska,2023,Psychological_Distress,75.5
+Arizona,2023,Psychological_Distress,74.0
+Arkansas,2023,Psychological_Distress,82.0
+California,2023,Psychological_Distress,72.0
+Colorado,2023,Psychological_Distress,73.0
+Connecticut,2023,Psychological_Distress,79.25
+Delaware,2023,Psychological_Distress,76.25
+District of Columbia,2023,Psychological_Distress,77.5
+Florida,2023,Psychological_Distress,65.5
+Georgia,2023,Psychological_Distress,71.0
+Hawaii,2023,Psychological_Distress,66.25
+Idaho,2023,Psychological_Distress,83.25
+Illinois,2023,Psychological_Distress,79.25
+Indiana,2023,Psychological_Distress,80.5
+Iowa,2023,Psychological_Distress,83.5
+Kansas,2023,Psychological_Distress,84.0
+Kentucky,2023,Psychological_Distress,79.75
+Louisiana,2023,Psychological_Distress,74.0
+Maine,2023,Psychological_Distress,81.0
+Maryland,2023,Psychological_Distress,79.75
+Massachusetts,2023,Psychological_Distress,78.0
+Michigan,2023,Psychological_Distress,81.5
+Minnesota,2023,Psychological_Distress,83.75
+Mississippi,2023,Psychological_Distress,87.0
+Missouri,2023,Psychological_Distress,76.5
+Montana,2023,Psychological_Distress,78.0
+Nebraska,2023,Psychological_Distress,78.0
+Nevada,2023,Psychological_Distress,69.5
+New Hampshire,2023,Psychological_Distress,81.75
+New Jersey,2023,Psychological_Distress,72.0
+New Mexico,2023,Psychological_Distress,74.0
+New York,2023,Psychological_Distress,70.75
+North Carolina,2023,Psychological_Distress,79.75
+North Dakota,2023,Psychological_Distress,80.0
+Ohio,2023,Psychological_Distress,81.25
+Oklahoma,2023,Psychological_Distress,80.25
+Oregon,2023,Psychological_Distress,78.0
+Pennsylvania,2023,Psychological_Distress,80.5
+Rhode Island,2023,Psychological_Distress,78.0
+South Carolina,2023,Psychological_Distress,73.5
+South Dakota,2023,Psychological_Distress,75.25
+Tennessee,2023,Psychological_Distress,81.75
+Texas,2023,Psychological_Distress,70.0
+Utah,2023,Psychological_Distress,84.75
+Vermont,2023,Psychological_Distress,85.75
+Virginia,2023,Psychological_Distress,78.25
+Washington,2023,Psychological_Distress,77.0
+West Virginia,2023,Psychological_Distress,88.25
+Wisconsin,2023,Psychological_Distress,77.5
+Wyoming,2023,Psychological_Distress,67.0
+Alabama,2023,Substance_Use,70.0
+Alaska,2023,Substance_Use,65.0
+Arizona,2023,Substance_Use,67.5
+Arkansas,2023,Substance_Use,72.0
+California,2023,Substance_Use,53.25
+Colorado,2023,Substance_Use,61.25
+Connecticut,2023,Substance_Use,66.75
+Delaware,2023,Substance_Use,61.75
+District of Columbia,2023,Substance_Use,63.0
+Florida,2023,Substance_Use,63.75
+Georgia,2023,Substance_Use,58.75
+Hawaii,2023,Substance_Use,44.5
+Idaho,2023,Substance_Use,66.75
+Illinois,2023,Substance_Use,54.0
+Indiana,2023,Substance_Use,67.0
+Iowa,2023,Substance_Use,58.25
+Kansas,2023,Substance_Use,58.75
+Kentucky,2023,Substance_Use,76.0
+Louisiana,2023,Substance_Use,60.25
+Maine,2023,Substance_Use,67.25
+Maryland,2023,Substance_Use,68.5
+Massachusetts,2023,Substance_Use,62.75
+Michigan,2023,Substance_Use,58.5
+Minnesota,2023,Substance_Use,63.75
+Mississippi,2023,Substance_Use,71.25
+Missouri,2023,Substance_Use,60.75
+Montana,2023,Substance_Use,63.75
+Nebraska,2023,Substance_Use,54.25
+Nevada,2023,Substance_Use,58.25
+New Hampshire,2023,Substance_Use,61.75
+New Jersey,2023,Substance_Use,61.5
+New Mexico,2023,Substance_Use,75.75
+New York,2023,Substance_Use,63.75
+North Carolina,2023,Substance_Use,67.75
+North Dakota,2023,Substance_Use,67.5
+Ohio,2023,Substance_Use,62.75
+Oklahoma,2023,Substance_Use,65.0
+Oregon,2023,Substance_Use,69.75
+Pennsylvania,2023,Substance_Use,66.0
+Rhode Island,2023,Substance_Use,64.25
+South Carolina,2023,Substance_Use,70.75
+South Dakota,2023,Substance_Use,68.0
+Tennessee,2023,Substance_Use,66.5
+Texas,2023,Substance_Use,52.75
+Utah,2023,Substance_Use,59.0
+Vermont,2023,Substance_Use,44.25
+Virginia,2023,Substance_Use,64.25
+Washington,2023,Substance_Use,59.75
+West Virginia,2023,Substance_Use,85.0
+Wisconsin,2023,Substance_Use,55.25
+Wyoming,2023,Substance_Use,63.0
+Alabama,2024,Care_Seeking,69.5
+Alaska,2024,Care_Seeking,66.5
+Arizona,2024,Care_Seeking,67.0
+Arkansas,2024,Care_Seeking,69.75
+California,2024,Care_Seeking,67.75
+Colorado,2024,Care_Seeking,71.25
+Connecticut,2024,Care_Seeking,78.75
+Delaware,2024,Care_Seeking,64.25
+District of Columbia,2024,Care_Seeking,69.0
+Florida,2024,Care_Seeking,65.25
+Georgia,2024,Care_Seeking,65.5
+Hawaii,2024,Care_Seeking,62.0
+Idaho,2024,Care_Seeking,75.0
+Illinois,2024,Care_Seeking,66.0
+Indiana,2024,Care_Seeking,61.75
+Iowa,2024,Care_Seeking,68.25
+Kansas,2024,Care_Seeking,66.25
+Kentucky,2024,Care_Seeking,65.75
+Louisiana,2024,Care_Seeking,74.75
+Maine,2024,Care_Seeking,59.5
+Maryland,2024,Care_Seeking,76.25
+Massachusetts,2024,Care_Seeking,65.5
+Michigan,2024,Care_Seeking,65.75
+Minnesota,2024,Care_Seeking,80.0
+Mississippi,2024,Care_Seeking,68.5
+Missouri,2024,Care_Seeking,65.75
+Montana,2024,Care_Seeking,70.25
+Nebraska,2024,Care_Seeking,68.75
+Nevada,2024,Care_Seeking,65.0
+New Hampshire,2024,Care_Seeking,61.0
+New Jersey,2024,Care_Seeking,77.75
+New Mexico,2024,Care_Seeking,62.25
+New York,2024,Care_Seeking,74.5
+North Carolina,2024,Care_Seeking,65.0
+North Dakota,2024,Care_Seeking,68.0
+Ohio,2024,Care_Seeking,60.5
+Oklahoma,2024,Care_Seeking,66.0
+Oregon,2024,Care_Seeking,70.25
+Pennsylvania,2024,Care_Seeking,69.25
+Rhode Island,2024,Care_Seeking,69.0
+South Carolina,2024,Care_Seeking,68.0
+South Dakota,2024,Care_Seeking,59.0
+Tennessee,2024,Care_Seeking,67.5
+Texas,2024,Care_Seeking,65.0
+Utah,2024,Care_Seeking,74.25
+Vermont,2024,Care_Seeking,64.5
+Virginia,2024,Care_Seeking,65.5
+Washington,2024,Care_Seeking,64.25
+West Virginia,2024,Care_Seeking,65.25
+Wisconsin,2024,Care_Seeking,62.25
+Wyoming,2024,Care_Seeking,77.75
+Alabama,2024,Economic_Hardship,73.0
+Alaska,2024,Economic_Hardship,51.75
+Arizona,2024,Economic_Hardship,59.75
+Arkansas,2024,Economic_Hardship,55.0
+California,2024,Economic_Hardship,42.25
+Colorado,2024,Economic_Hardship,62.75
+Connecticut,2024,Economic_Hardship,54.5
+Delaware,2024,Economic_Hardship,62.75
+District of Columbia,2024,Economic_Hardship,63.75
+Florida,2024,Economic_Hardship,61.0
+Georgia,2024,Economic_Hardship,62.25
+Hawaii,2024,Economic_Hardship,51.0
+Idaho,2024,Economic_Hardship,54.0
+Illinois,2024,Economic_Hardship,50.5
+Indiana,2024,Economic_Hardship,62.25
+Iowa,2024,Economic_Hardship,53.0
+Kansas,2024,Economic_Hardship,56.0
+Kentucky,2024,Economic_Hardship,61.5
+Louisiana,2024,Economic_Hardship,69.0
+Maine,2024,Economic_Hardship,42.75
+Maryland,2024,Economic_Hardship,58.5
+Massachusetts,2024,Economic_Hardship,50.0
+Michigan,2024,Economic_Hardship,55.5
+Minnesota,2024,Economic_Hardship,53.5
+Mississippi,2024,Economic_Hardship,63.5
+Missouri,2024,Economic_Hardship,64.75
+Montana,2024,Economic_Hardship,57.25
+Nebraska,2024,Economic_Hardship,44.75
+Nevada,2024,Economic_Hardship,70.75
+New Hampshire,2024,Economic_Hardship,46.75
+New Jersey,2024,Economic_Hardship,59.5
+New Mexico,2024,Economic_Hardship,52.0
+New York,2024,Economic_Hardship,55.0
+North Carolina,2024,Economic_Hardship,54.25
+North Dakota,2024,Economic_Hardship,50.0
+Ohio,2024,Economic_Hardship,63.25
+Oklahoma,2024,Economic_Hardship,64.75
+Oregon,2024,Economic_Hardship,64.0
+Pennsylvania,2024,Economic_Hardship,60.5
+Rhode Island,2024,Economic_Hardship,52.0
+South Carolina,2024,Economic_Hardship,54.0
+South Dakota,2024,Economic_Hardship,41.5
+Tennessee,2024,Economic_Hardship,62.25
+Texas,2024,Economic_Hardship,55.25
+Utah,2024,Economic_Hardship,53.5
+Vermont,2024,Economic_Hardship,47.75
+Virginia,2024,Economic_Hardship,48.25
+Washington,2024,Economic_Hardship,61.0
+West Virginia,2024,Economic_Hardship,51.25
+Wisconsin,2024,Economic_Hardship,52.75
+Wyoming,2024,Economic_Hardship,57.25
+Alabama,2024,Psychological_Distress,80.0
+Alaska,2024,Psychological_Distress,71.5
+Arizona,2024,Psychological_Distress,74.25
+Arkansas,2024,Psychological_Distress,87.25
+California,2024,Psychological_Distress,76.5
+Colorado,2024,Psychological_Distress,75.5
+Connecticut,2024,Psychological_Distress,85.0
+Delaware,2024,Psychological_Distress,79.75
+District of Columbia,2024,Psychological_Distress,77.0
+Florida,2024,Psychological_Distress,72.75
+Georgia,2024,Psychological_Distress,78.0
+Hawaii,2024,Psychological_Distress,71.5
+Idaho,2024,Psychological_Distress,82.0
+Illinois,2024,Psychological_Distress,81.0
+Indiana,2024,Psychological_Distress,81.5
+Iowa,2024,Psychological_Distress,84.5
+Kansas,2024,Psychological_Distress,88.0
+Kentucky,2024,Psychological_Distress,86.5
+Louisiana,2024,Psychological_Distress,81.0
+Maine,2024,Psychological_Distress,83.0
+Maryland,2024,Psychological_Distress,86.0
+Massachusetts,2024,Psychological_Distress,79.75
+Michigan,2024,Psychological_Distress,82.75
+Minnesota,2024,Psychological_Distress,87.5
+Mississippi,2024,Psychological_Distress,84.25
+Missouri,2024,Psychological_Distress,82.25
+Montana,2024,Psychological_Distress,75.0
+Nebraska,2024,Psychological_Distress,80.0
+Nevada,2024,Psychological_Distress,74.25
+New Hampshire,2024,Psychological_Distress,85.75
+New Jersey,2024,Psychological_Distress,77.25
+New Mexico,2024,Psychological_Distress,76.0
+New York,2024,Psychological_Distress,74.25
+North Carolina,2024,Psychological_Distress,82.75
+North Dakota,2024,Psychological_Distress,79.5
+Ohio,2024,Psychological_Distress,83.75
+Oklahoma,2024,Psychological_Distress,83.75
+Oregon,2024,Psychological_Distress,78.5
+Pennsylvania,2024,Psychological_Distress,83.75
+Rhode Island,2024,Psychological_Distress,85.5
+South Carolina,2024,Psychological_Distress,81.0
+South Dakota,2024,Psychological_Distress,76.75
+Tennessee,2024,Psychological_Distress,79.5
+Texas,2024,Psychological_Distress,75.0
+Utah,2024,Psychological_Distress,88.5
+Vermont,2024,Psychological_Distress,88.75
+Virginia,2024,Psychological_Distress,80.75
+Washington,2024,Psychological_Distress,79.0
+West Virginia,2024,Psychological_Distress,88.5
+Wisconsin,2024,Psychological_Distress,83.5
+Wyoming,2024,Psychological_Distress,72.0
+Alabama,2024,Substance_Use,67.75
+Alaska,2024,Substance_Use,63.25
+Arizona,2024,Substance_Use,71.75
+Arkansas,2024,Substance_Use,69.25
+California,2024,Substance_Use,54.25
+Colorado,2024,Substance_Use,57.0
+Connecticut,2024,Substance_Use,68.5
+Delaware,2024,Substance_Use,68.25
+District of Columbia,2024,Substance_Use,67.75
+Florida,2024,Substance_Use,59.25
+Georgia,2024,Substance_Use,59.25
+Hawaii,2024,Substance_Use,47.5
+Idaho,2024,Substance_Use,63.0
+Illinois,2024,Substance_Use,54.25
+Indiana,2024,Substance_Use,63.0
+Iowa,2024,Substance_Use,59.5
+Kansas,2024,Substance_Use,64.75
+Kentucky,2024,Substance_Use,74.0
+Louisiana,2024,Substance_Use,57.25
+Maine,2024,Substance_Use,58.25
+Maryland,2024,Substance_Use,70.75
+Massachusetts,2024,Substance_Use,62.5
+Michigan,2024,Substance_Use,58.75
+Minnesota,2024,Substance_Use,62.0
+Mississippi,2024,Substance_Use,72.5
+Missouri,2024,Substance_Use,60.0
+Montana,2024,Substance_Use,58.5
+Nebraska,2024,Substance_Use,55.0
+Nevada,2024,Substance_Use,60.75
+New Hampshire,2024,Substance_Use,60.0
+New Jersey,2024,Substance_Use,64.5
+New Mexico,2024,Substance_Use,77.5
+New York,2024,Substance_Use,61.5
+North Carolina,2024,Substance_Use,64.5
+North Dakota,2024,Substance_Use,51.75
+Ohio,2024,Substance_Use,65.75
+Oklahoma,2024,Substance_Use,63.75
+Oregon,2024,Substance_Use,69.25
+Pennsylvania,2024,Substance_Use,66.25
+Rhode Island,2024,Substance_Use,71.25
+South Carolina,2024,Substance_Use,71.0
+South Dakota,2024,Substance_Use,42.75
+Tennessee,2024,Substance_Use,66.75
+Texas,2024,Substance_Use,54.5
+Utah,2024,Substance_Use,65.25
+Vermont,2024,Substance_Use,70.0
+Virginia,2024,Substance_Use,66.75
+Washington,2024,Substance_Use,58.0
+West Virginia,2024,Substance_Use,91.75
+Wisconsin,2024,Substance_Use,57.25
+Wyoming,2024,Substance_Use,58.25
