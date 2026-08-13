@@ -1,0 +1,10 @@
+Variable,Description,Data Type,Non-Missing,Missing,Unique Values,Range / Categories,Mean (numeric)
+State,U.S. state associated with the observation.,str,360,0,46,46 unique values,
+Year,Calendar year of the observation.,int64,360,0,8,2016.0000 to 2023.0000,2019.4861
+admission_rate_per_100k,"Psychiatric admission rate per 100,000 population; model target.",float64,360,0,360,110.1107 to 826.9086,394.4748
+admission_rate_lag2,Psychiatric admission rate from two years earlier.,float64,360,0,360,110.1107 to 826.9086,409.2245
+neighbor_admission_rate_lag1,Previous-year psychiatric admission rate among neighboring states.,float64,360,0,345,190.4005 to 640.7832,405.6167
+search_PC1,First principal component summarizing Google Trends search activity.,float64,360,0,360,-4.9748 to 4.2108,0.2379
+search_PC2,Second principal component summarizing Google Trends search activity.,float64,360,0,360,-2.8070 to 2.1881,-0.2432
+search_PC3,Third principal component summarizing Google Trends search activity.,float64,360,0,360,-2.6131 to 2.5178,-0.3563
+log_state_population,Natural-log-transformed state population.,float64,360,0,360,13.2692 to 17.4902,15.2648
