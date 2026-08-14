@@ -7,3 +7,4 @@ statsmodels
 openpyxl
 jupyter
 notebook
+xlrd>=2.0.1
