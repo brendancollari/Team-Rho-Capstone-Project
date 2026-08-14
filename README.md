@@ -100,7 +100,7 @@ python3 -m venv venv
 source venv/bin/activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
-jupyter notebook notebooks/processed/build_prediction_dataset.ipynb
+
 ```
 After running the commands above, Jupyter Notebook will open the project notebook. Open notebooks/processed/build_prediction_dataset.ipynb and select Run All. The processed dataset will be generated automatically and saved to data/processed/.
 ---
