@@ -100,7 +100,7 @@ python3 -m venv venv
 source venv/bin/activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
-python -m pip install jupyter
+python -m ipykernel install --user --name team-rho-venv --display-name "Python (Team Rho)"
 python -m jupyter notebook
 
 ```
