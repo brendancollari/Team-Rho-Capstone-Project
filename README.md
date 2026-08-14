@@ -85,6 +85,21 @@ Open the notebooks in `notebooks/` — the data collection/merge notebook first,
 
 ---
 
+## How to Run data collection notebook
+
+Clone the repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/brendancollari/Team-Rho-Capstone-Project.git
+cd Team-Rho-Capstone-Project
+python3 -m venv venv
+source venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+jupyter notebook notebooks/processed/build_prediction_dataset.ipynb
+```
+After running the commands above, Jupyter Notebook will open the project notebook. Open notebooks/processed/build_prediction_dataset.ipynb and select Run All. The processed dataset will be generated automatically and saved to data/processed/.
+---
 ## References
 
 - Google. (n.d.). Google Trends. https://trends.google.com/trends
