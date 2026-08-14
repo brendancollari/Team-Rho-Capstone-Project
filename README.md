@@ -42,13 +42,17 @@ Raw Google Trends data has been size-reduced (not substantially cleaned) to stay
 ## Repo Structure
 
 ```
+
+Team-Rho-Capstone-Project/
 ├── data/
 │   ├── raw/          # Source data, the Google Trends, the HCUP, and the Census Bureau)
 │   └── processed/     # Merged/aggregated state-year dataset
 ├── notebooks/ # Data collection/merge notebook + EDA report notebook
-	├── raw/
-	└── processed/ 	     
+│   ├── raw/
+│   └── processed/
+├── requirements.txt
 └── README.md
+
 ```
 
 ---
