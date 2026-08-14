@@ -104,7 +104,9 @@ python -m ipykernel install --user --name team-rho-venv --display-name "Python (
 python -m jupyter notebook
 
 ```
-After running the commands above, Jupyter Notebook will open the project notebook. Open notebooks/processed/build_prediction_dataset.ipynb and select Run All. The processed dataset will be generated automatically and saved to data/processed/.
+Open the notebook in notebook/processed/.
+Select Python (Team Rho) as the kernel.
+Choose Restart Kernel and Run All Cells.
 ---
 ## References
 
