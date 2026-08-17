@@ -47,9 +47,9 @@ Team-Rho-Capstone-Project/
 ├── data/
 │   ├── raw/          # Source data, the Google Trends, the HCUP, and the Census Bureau)
 │   └── processed/     # Merged/aggregated state-year dataset
-│   		├── PreliminaryProposal.files
-│		└── Engineered_Data_v1
-│		└── Engineered_Data_v2
+│   	├── PreliminaryProposal.files
+│	└── Engineered_Data_v1
+│	└── Engineered_Data_v2
 ├── notebooks/ # Data collection/merge notebook + EDA report notebook
 │   ├── raw/
 │   └── processed/
