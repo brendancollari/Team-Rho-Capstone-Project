@@ -47,8 +47,8 @@ Team-Rho-Capstone-Project/
 │   ├── raw/
 │   │   └── # Source data: Google Trends, HCUP, and Census Bureau
 │   └── processed/
-│       ├── PreliminaryProposal.files/
-│       ├── Engineered_Data_v1/
+│       └── PreliminaryProposal.files/
+│       └──Engineered_Data_v1/
 │       └── Engineered_Data_v2/
 ├── Notebooks/
 │   ├── raw/
