@@ -52,7 +52,7 @@ Team-Rho-Capstone-Project/
 │   └── processed/
 ├── requirements.txt
 └── README.md
-└──figures/
+└── figures/
 	├── EDA.eng/
 	├── preprocessing/
 	├── baseline/
