@@ -52,6 +52,11 @@ Team-Rho-Capstone-Project/
 │   └── processed/
 ├── requirements.txt
 └── README.md
+└──figures/
+	├── EDA.eng/
+	├── preprocessing/
+	├── baseline/
+	└──hyperparameters/
 
 ```
 
