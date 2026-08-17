@@ -56,7 +56,7 @@ Team-Rho-Capstone-Project/
 	├── EDA.eng/
 	├── preprocessing/
 	├── baseline/
-	└──hyperparameters/
+	└── hyperparameters/
 
 ```
 
