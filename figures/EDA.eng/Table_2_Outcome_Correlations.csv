@@ -1,0 +1,11 @@
+Predictor,Correlation
+admission_rate_lag2,0.928
+neighbor_admission_rate_lag1,0.355
+mental health crisis_lag1,-0.157
+crisis hotline_lag1,-0.156
+suicide prevention_lag1,-0.115
+suicide hotline_lag1,-0.108
+suicidal thoughts_lag1,-0.057
+self harm_lag1,0.048
+depression help_lag1,0.012
+psychiatric hospital_lag1,-0.006
