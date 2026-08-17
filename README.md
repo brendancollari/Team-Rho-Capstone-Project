@@ -94,7 +94,7 @@ Open the notebooks in `notebooks/` — the data collection/merge notebook first,
 
 ---
 
-## How to Run data collection notebook
+## How to Run PROCESSED notebooks
 
 Clone the repository and navigate to the project directory:
 
@@ -113,23 +113,6 @@ Open the notebook in notebook/processed/.
 Select Python (Team Rho) as the kernel.
 Choose Restart Kernel and Run All Cells.
 ---
-
-## How to Run EDA notebook
-
-Clone the repository and navigate to the project directory:
-```bash
-git clone https://github.com/brendancollari/Team-Rho-Capstone-Project.git
-cd Team-Rho-Capstone-Project
-python3 -m venv venv
-source venv/bin/activate
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-python -m ipykernel install --user --name team-rho-venv --display-name "Python (Team Rho)"
-python -m jupyter notebook
-```
-Open the notebook in notebook/processed/.
-Select Python (Team Rho) as the kernel.
-Choose Restart Kernel and Run All Cells.
 
 
 ## References
